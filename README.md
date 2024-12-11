@@ -4,7 +4,7 @@
 Aquí encontrarás una selección de mis Proyectos Analíticos y de Ingeniería más destacados.
 
 ## Sobre mí
-Soy un apasionado del Análisis de Datos, las Finanzas Corporativas y la Ciberseguridad. Cuento con experiencia en proyectos de visualización, modelado dimensional y manipulación de datos. Mi objetivo, siempre, es convertir datos en información valiosa para la toma de decisiones estratégica.
+Soy un apasionado del Análisis de Datos, la Inteligencia de Negocios , las Finanzas Corporativas y los Sistemas Informáticos. Cuento con experiencia desarrollando proyectos de visualización, modelado dimensional y manipulación de datos. Mi objetivo, siempre, es convertir datos crudos en información valiosa para la toma de decisiones estratégica.
 
 <img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
 
@@ -16,7 +16,7 @@ Soy un apasionado del Análisis de Datos, las Finanzas Corporativas y la Ciberse
 
 <img src="assets/img/dashboard_preview.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
 
-**Consulta los resultados del proyecto según tu interés**
+**Consulta los resultados del proyecto según tu interés:**
 
 [![Documento](assets/img/icons/documento_pdf.png)](https://drive.google.com/file/d/1OBtzkjvAvFkALHtV9D6mnRBfXR90X038/view?usp=drive_link "Visualiza el informe documental de la investigación")
 [![Kaggle](assets/img/icons/kaggle.png)](https://www.kaggle.com/code/saidalioviedobeltran/eda-para-agrocr-ditos-finagro-202101-202409 "Visita el cuaderno de Exploración analítica de los datos en Kaggle")
