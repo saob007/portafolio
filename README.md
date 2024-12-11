@@ -1,5 +1,5 @@
 # ¡Hola! Bienvenido a mi Portafolio 
-### Proyectos productivos | Proyectos EDA | Investigación
+### Proyectos Productivos | Proyectos EDA | Investigación
 
 Aquí encontrarás una selección de mis Proyectos Analíticos y de Ingeniería más destacados.
 
