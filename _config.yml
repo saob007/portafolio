@@ -1,0 +1,6 @@
+title: Said Oviedo
+logo: /assets/img/picture_profile.png
+description: Explora mis proyectos y habilidades en análisis de datos, visualización, y machine learning.
+show_downloads: false  # Asegúrate de que este atributo se use en el tema que eliges
+# Personalización de diseño
+theme: jekyll-theme-minimal
