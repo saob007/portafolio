@@ -8,6 +8,9 @@ Soy un apasionado del Análisis de Datos, las Finanzas Corporativas y la Ciberse
 
 ## Proyectos Destacados
 ### [Datos para la inclusión: Análisis de las dinámicas crediticias de FINAGRO (2021-2024) en la inclusión financiera, diversificación agropecuaria y equidad de género en zonas rurales y de posconflicto en Colombia](https://github.com/saob007/Data-Analysis---Agrocr-ditos-FINAGRO-2023)
+- **Descripción:** Análisis explotaroio, creación de visuales y contrucción de KPIs utilizando Python y Power BI.
+- **Herramientas:** Jupyter Notebook, Python, R, Power BI.
+- **Resultados:** Identificación y medición de la cobertura de créditos en tres dimensiones de estudio.
 <img src="assets/img/dashboard_preview.png" alt="Proyecto 1" width="300">
 
 *Visualiza los resultados del proyecto según tu interés*
@@ -17,9 +20,6 @@ Soy un apasionado del Análisis de Datos, las Finanzas Corporativas y la Ciberse
 [![Power BI](assets/img/icons/power_bi.png)](https://project.novypro.com/OhEhpc "Visualiza el tablero en Novypro")
 [![Imagenes](assets/img/icons/images.png)](https://drive.google.com/drive/folders/1qbubBjVsBsnivm2bAqC-CJZGejwTpZ8u?usp=drive_link "Visualiza imágenes del Modelo Dimensional, Arqutectura y Tablero de Informes")
 
-- **Descripción:** Análisis explotaroio, creación de visuales y contrucción de KPIs utilizando Python y Power BI.
-- **Herramientas:** Jupyter Notebook, Python, R, Power BI.
-- **Resultados:** Identificación y medición de la cobertura de créditos en tres dimensiones de estudio.
 
 ### [Predicción de Churn](#)
 - **Descripción:** Modelo de Machine Learning para predecir la pérdida de clientes.
