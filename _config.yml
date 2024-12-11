@@ -1,6 +1,7 @@
 title: Said Ali Oviedo Beltrán
 logo: /assets/img/picture_profile.png
 description: Ingeniero Industrial | Analista de datos | Técnico en Microfinanzas
+
 show_downloads: false  # Asegúrate de que este atributo se use en el tema que eliges
 # Personalización de diseño
 theme: jekyll-theme-minimal
