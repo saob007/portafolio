@@ -1,0 +1,13 @@
+body {
+    text-align: justify; /* Justificar texto por defecto */
+}
+h1, h2, h3 {
+    color: #2c3e50; /* Cambiar color de títulos */
+}
+a {
+    color: #2980b9; /* Color de enlaces */
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
