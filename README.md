@@ -4,12 +4,12 @@
 Aquí encontrarás una selección de mis Proyectos Analíticos y de Ingeniería más destacados.
 
 ## Sobre mí
-Soy un apasionado del análisis de datos, las finanzas corporativas y la ciberseguridad. Cuento con experiencia en proyectos de visualización, modelado dimensional y manipulación de datos. Mi objetivo, siempre, es convertir datos en información valiosa para la toma de decisiones estratégica.
+Soy un apasionado del Análisis de Datos, las Finanzas Corporativas y la Ciberseguridad. Cuento con experiencia en proyectos de visualización, modelado dimensional y manipulación de datos. Mi objetivo, siempre, es convertir datos en información valiosa para la toma de decisiones estratégica.
 
 ## Proyectos Destacados
 ### [Datos para la inclusión: Análisis de las dinámicas crediticias de FINAGRO (2021-2024) en la inclusión financiera, diversificación agropecuaria y equidad de género en zonas rurales y de posconflicto en Colombia](https://github.com/saob007/Data-Analysis---Agrocr-ditos-FINAGRO-2023)
 <img src="assets/img/dashboard_preview.png" alt="Proyecto 1" width="300">
-
+***Visualiza los resultados del proyecto según tu interés***
 [![Documento](assets/img/icons/documento_pdf.png)](https://drive.google.com/file/d/1OBtzkjvAvFkALHtV9D6mnRBfXR90X038/view?usp=drive_link "Visualiza el informe documental de la investigación")
 [![Kaggle](assets/img/icons/kaggle.png)](https://www.kaggle.com/code/saidalioviedobeltran/eda-para-agrocr-ditos-finagro-202101-202409 "Visita el cuaderno de Exploración analítica de los datos en Kaggle")
 [![Power BI](assets/img/icons/power_bi.png)](https://project.novypro.com/OhEhpc "Visualiza el tablero en Novypro")
