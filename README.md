@@ -9,6 +9,10 @@ Soy un apasionado del análisis de datos, las finanzas corporativas y la ciberse
 ## Proyectos Destacados
 ### [Datos para la inclusión: Análisis de las dinámicas crediticias de FINAGRO (2021-2024) en la inclusión financiera, diversificación agropecuaria y equidad de género en zonas rurales y de posconflicto en Colombia](https://github.com/saob007/Data-Analysis---Agrocr-ditos-FINAGRO-2023)
 <img src="assets/img/dashboard_preview.png" alt="Proyecto 1" width="300">
+[![Documento](assets/img/icons/documento_pdf.png)](https://www.kaggle.com/tu_usuario "Visualiza el documento de investigación")
+[![Kaggle](assets/img/icons/kaggle.png)](https://public.tableau.com/app/profile/tu_usuario "Visita el cuaderno EDA en Kaggle")
+[![Power BI](assets/img/icons/power_bi.png)](https://project.novypro.com/OhEhpc "Visualiza el tablero en Novypro")
+[![Imagenes](assets/img/icons/images.png)](https://app.powerbi.com/tu_usuario "Visualiza capturas del modelo dimensional y tablero")
 
 - **Descripción:** Análisis explotaroio, creación de visuales y contrucción de KPIs utilizando Python y Power BI.
 - **Herramientas:** Jupyter Notebook, Python, R, Power BI.
