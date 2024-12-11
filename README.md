@@ -11,6 +11,7 @@ Soy un apasionado del Análisis de Datos, las Finanzas Corporativas y la Ciberse
 - **Descripción:** Análisis explotaroio, creación de visuales y contrucción de KPIs utilizando Python y Power BI.
 - **Herramientas:** Jupyter Notebook, Python, R, Power BI.
 - **Resultados:** Identificación y medición de la cobertura de créditos en tres dimensiones de estudio.
+
 <img src="assets/img/dashboard_preview.png" alt="Proyecto 1" width="300">
 
 ****Visualiza los resultados del proyecto según tu interés****
