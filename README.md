@@ -12,7 +12,7 @@ Soy un apasionado del Análisis de Datos, las Finanzas Corporativas y la Ciberse
 - **Herramientas:** Jupyter Notebook, Python, R, Power BI.
 - **Resultados:** Identificación y medición de la cobertura de créditos en tres dimensiones de estudio.
 
-<img src="assets/img/dashboard_preview.png" alt="Proyecto 1" width="400">
+<img src="assets/img/dashboard_preview.png" alt="Proyecto 1" width="300">
 
 **Consulta los resultados del proyecto según tu interés**
 
