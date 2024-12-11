@@ -31,7 +31,7 @@ Soy un apasionado del Análisis de Datos, las Finanzas Corporativas y la Ciberse
 - **Otras:** Microsoft Office 365, Jupyter Lab, Anaconda, SAP, Adobe Photoshop.
 
 ## Contacto
-- **Email:** [saob1995@gmail.com](mailto:saob1995@gmail.com)
+- **Email:** [ingsaidalioviedo@gmail.com](mailto:ingsaidalioviedo@gmail.com)
 - **LinkedIn:** [Mi Perfil](https://www.linkedin.com/in/saidalioviedo/)
 - **GitHub:** [Mi GitHub](https://github.com/saob007)
 
