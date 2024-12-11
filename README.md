@@ -13,7 +13,7 @@ Soy un apasionado del Análisis de Datos, las Finanzas Corporativas y la Ciberse
 - **Resultados:** Identificación y medición de la cobertura de créditos en tres dimensiones de estudio.
 <img src="assets/img/dashboard_preview.png" alt="Proyecto 1" width="300">
 
-*Visualiza los resultados del proyecto según tu interés*
+****Visualiza los resultados del proyecto según tu interés****
 
 [![Documento](assets/img/icons/documento_pdf.png)](https://drive.google.com/file/d/1OBtzkjvAvFkALHtV9D6mnRBfXR90X038/view?usp=drive_link "Visualiza el informe documental de la investigación")
 [![Kaggle](assets/img/icons/kaggle.png)](https://www.kaggle.com/code/saidalioviedobeltran/eda-para-agrocr-ditos-finagro-202101-202409 "Visita el cuaderno de Exploración analítica de los datos en Kaggle")
