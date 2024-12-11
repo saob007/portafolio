@@ -6,7 +6,7 @@ Aquí encontrarás una selección de mis Proyectos Analíticos y de Ingeniería 
 ## Sobre mí
 Soy un apasionado del análisis de datos, las finanzas corporativas y la ciberseguridad. Cuento con experiencia en proyectos de visualización, modelado dimensional y manipulación de datos. Mi objetivo, siempre, es convertir datos en información valiosa para la toma de decisiones estratégica.
 
-## <b><div style='padding:13px;background-color:#592321;color:white;border-radius:3px;font-size:110%;text-align: left'>1. Entendiendo el Dataset</div></b>
+## Proyectos Destacados
 ### [Datos para la inclusión: Análisis de las dinámicas crediticias de FINAGRO (2021-2024) en la inclusión financiera, diversificación agropecuaria y equidad de género en zonas rurales y de posconflicto en Colombia](https://github.com/saob007/Data-Analysis---Agrocr-ditos-FINAGRO-2023)
 <img src="assets/img/dashboard_preview.png" alt="Proyecto 1" width="300">
 
