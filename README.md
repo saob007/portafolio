@@ -1,7 +1,7 @@
-# ¡Hola! Soy Said Ali Oviedo Beltrán
-### Ingeniero Industrial | Analista de Datos | Técnico de Microfinanzas
+# ¡Hola! Bienvenido a mi Portafolio 
+### Proyectos productivos | Proyectos EDA | Investigación
 
-Bienvenido a mi portafolio. Aquí encontrarás una selección de mis Proyectos Analíticos y de Ingeniería más destacados.
+Aquí encontrarás una selección de mis Proyectos Analíticos y de Ingeniería más destacados.
 
 ## Sobre mí
 Soy un apasionado del análisis de datos, las finanzas corporativas y la ciberseguridad. Cuento con experiencia en proyectos de visualización, modelado dimensional y manipulación de datos. Mi objetivo, siempre, es convertir datos en información valiosa para la toma de decisiones estratégica.
