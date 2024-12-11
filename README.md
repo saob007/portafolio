@@ -6,6 +6,8 @@ Aquí encontrarás una selección de mis Proyectos Analíticos y de Ingeniería 
 ## Sobre mí
 Soy un apasionado del Análisis de Datos, las Finanzas Corporativas y la Ciberseguridad. Cuento con experiencia en proyectos de visualización, modelado dimensional y manipulación de datos. Mi objetivo, siempre, es convertir datos en información valiosa para la toma de decisiones estratégica.
 
+<img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
+
 ## Proyectos Destacados
 ### [Datos para la inclusión: Análisis de las dinámicas crediticias de FINAGRO (2021-2024) en la inclusión financiera, diversificación agropecuaria y equidad de género en zonas rurales y de posconflicto en Colombia](https://github.com/saob007/Data-Analysis---Agrocr-ditos-FINAGRO-2023)
 - **Descripción:** Análisis explotaroio, creación de visuales y contrucción de KPIs utilizando Python y Power BI.
@@ -21,7 +23,7 @@ Soy un apasionado del Análisis de Datos, las Finanzas Corporativas y la Ciberse
 [![Power BI](assets/img/icons/power_bi.png)](https://project.novypro.com/OhEhpc "Visualiza el tablero en Novypro")
 [![Imagenes](assets/img/icons/images.png)](https://drive.google.com/drive/folders/1qbubBjVsBsnivm2bAqC-CJZGejwTpZ8u?usp=drive_link "Visualiza imágenes del Modelo Dimensional, Arqutectura y Tablero de Informes")
 
-
+<img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
 
 ## Habilidades
 - **Lenguajes de Programación:** SQL, Python, R, Visual Basic.
