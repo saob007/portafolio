@@ -9,6 +9,7 @@ Soy un apasionado del Análisis de Datos, las Finanzas Corporativas y la Ciberse
 ## Proyectos Destacados
 ### [Datos para la inclusión: Análisis de las dinámicas crediticias de FINAGRO (2021-2024) en la inclusión financiera, diversificación agropecuaria y equidad de género en zonas rurales y de posconflicto en Colombia](https://github.com/saob007/Data-Analysis---Agrocr-ditos-FINAGRO-2023)
 <img src="assets/img/dashboard_preview.png" alt="Proyecto 1" width="300">
+
 ***Visualiza los resultados del proyecto según tu interés***
 
 [![Documento](assets/img/icons/documento_pdf.png)](https://drive.google.com/file/d/1OBtzkjvAvFkALHtV9D6mnRBfXR90X038/view?usp=drive_link "Visualiza el informe documental de la investigación")
