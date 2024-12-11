@@ -22,20 +22,11 @@ Soy un apasionado del Análisis de Datos, las Finanzas Corporativas y la Ciberse
 [![Imagenes](assets/img/icons/images.png)](https://drive.google.com/drive/folders/1qbubBjVsBsnivm2bAqC-CJZGejwTpZ8u?usp=drive_link "Visualiza imágenes del Modelo Dimensional, Arqutectura y Tablero de Informes")
 
 
-### [Predicción de Churn](#)
-- **Descripción:** Modelo de Machine Learning para predecir la pérdida de clientes.
-- **Herramientas:** Scikit-learn, Jupyter Notebook, Matplotlib.
-- **Resultados:** Mejora del 20% en la retención de clientes.
-
-### [Dashboard Interactivo](#)
-- **Descripción:** Creación de un tablero interactivo para análisis financiero.
-- **Herramientas:** Tableau, SQL.
-- **Resultados:** Visualización clara de métricas clave para la toma de decisiones.
 
 ## Habilidades
-- **Lenguajes de Programación:** Python, SQL, R.
-- **Herramientas de Visualización:** Tableau, Power BI, Matplotlib, Seaborn.
-- **Otras:** Excel avanzado, Jupyter Notebook.
+- **Lenguajes de Programación:** SQL, Python, R, Visual Basic.
+- **Herramientas de Visualización:** Power BI, Tableau, Excel , Matplotlib, Seaborn.
+- **Otras:** Microsoft Office 365, Jupyter Lab, Anaconda, SAP, Adobe Photoshop.
 
 ## Contacto
 - **Email:** [saob1995@gmail.com](mailto:saob1995@gmail.com)
