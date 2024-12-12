@@ -8,7 +8,7 @@ Soy un apasionado del Análisis de Datos, la Inteligencia de Negocios , las Fina
 
 <img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
 
-## Proyectos Destacados
+## Proyectos Personales Destacados
 ### [Datos para la inclusión: Análisis de las dinámicas crediticias de FINAGRO (2021-2024) en la inclusión financiera, diversificación agropecuaria y equidad de género en zonas rurales y de posconflicto en Colombia](https://github.com/saob007/Data-Analysis---Agrocr-ditos-FINAGRO-2023)
 - **Descripción:** Análisis explotaroio, creación de visuales y contrucción de KPIs utilizando Python y Power BI.
 - **Herramientas:** Jupyter Notebook, Python, R, Power BI.
