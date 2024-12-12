@@ -4,7 +4,7 @@
 Aquí encontrarás una selección de mis Proyectos Analíticos y de Ingeniería más destacados.
 
 ## Sobre mí
-Soy un apasionado del Análisis de Datos, la Inteligencia de Negocios , las Finanzas Corporativas y los Sistemas Informáticos. Cuento con experiencia desarrollando proyectos de visualización, modelado dimensional y manipulación de datos. Mi objetivo, siempre, es convertir datos crudos en información valiosa para la toma de decisiones estratégica.
+Soy un apasionado del Análisis de Datos, la Inteligencia de Negocios , las Finanzas Corporativas y los Sistemas Informáticos. Cuento con experiencia desarrollando proyectos de visualización, modelado dimensional y manipulación de datos. Mi objetivo, siempre, es convertir datos crudos en información valiosa para la toma de decisiones estratégica siguiendo metodologías de proyecto como CRISP-DM.
 
 <img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
 
