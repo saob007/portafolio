@@ -25,7 +25,7 @@ Soy un apasionado del Análisis de Datos, la Inteligencia de Negocios , las Fina
 
 <img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
 
-### [Diseño del sistema de reclutamiento y selección del personal basado en competencias para la fundación clínica del río, y su contribución en el desempeño laboral]([https://github.com/saob007/Data-Analysis---Agrocr-ditos-FINAGRO-2023](https://repositorio.unicordoba.edu.co/handle/ucordoba/3895)
+### [Diseño del sistema de reclutamiento y selección del personal basado en competencias para la fundación clínica del río, y su contribución en el desempeño laboral](https://repositorio.unicordoba.edu.co/handle/ucordoba/3895)
 - **Descripción:** Reconstrucción detallada del proceso de diseño de un sistema de reclutamiento y selección de personal del área asistencial y administrativa, basado en competencias.
 - **Herramientas:** Microsoft Excel, Microsoft Word, Dynamica SAP, Canvas.
 - **Resultados:** Formatos y manuales de métodos & procedimientos .
