@@ -30,7 +30,7 @@ Soy un apasionado del Análisis de Datos, la Inteligencia de Negocios , las Fina
 - **Herramientas:** Microsoft Excel, Microsoft Word, Dynamica SAP, Canvas.
 - **Resultados:** Formatos y manuales de métodos & procedimientos .
 
-<img src="assets/img/informe sistema.png" alt="Proyecto RRHH" style="max-width: 100%; height: auto;">
+<img src="assets/img/informe_sistema.png" alt="Proyecto RRHH" style="max-width: 100%; height: auto;">
 
 **Consulta los resultados del proyecto según tu interés:**
 
