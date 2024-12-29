@@ -25,6 +25,20 @@ Soy un apasionado del Análisis de Datos, la Inteligencia de Negocios , las Fina
 
 <img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
 
+### [Diseño del sistema de reclutamiento y selección del personal basado en competencias para la fundación clínica del río, y su contribución en el desempeño laboral]([https://github.com/saob007/Data-Analysis---Agrocr-ditos-FINAGRO-2023](https://repositorio.unicordoba.edu.co/handle/ucordoba/3895)
+- **Descripción:** Reconstrucción detallada del proceso de diseño de un sistema de reclutamiento y selección de personal del área asistencial y administrativa, basado en competencias.
+- **Herramientas:** Microsoft Excel, Microsoft Word, Dynamica SAP, Canvas.
+- **Resultados:** Formatos y manuales de métodos & procedimientos .
+
+<img src="assets/img/informe sistema.png" alt="Proyecto RRHH" style="max-width: 100%; height: auto;">
+
+**Consulta los resultados del proyecto según tu interés:**
+
+[![Documento](assets/img/icons/documento_pdf.png)](https://repositorio.unicordoba.edu.co/server/api/core/bitstreams/21f02e45-c2bb-4a80-83bc-bc929433816c/content "Visualiza el informe del proyecto de práctica")
+[![Kaggle](assets/img/icons/kaggle.png)](https://repositorio.unicordoba.edu.co/server/api/core/bitstreams/43ffc4ed-95d1-47f0-b4bb-c78e0269f2f5/content "Visualiza los anexos del informe")
+
+<img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
+
 ## Habilidades
 - **Lenguajes de Programación:** SQL, Python, R, Visual Basic.
 - **Herramientas de Visualización:** Power BI, Tableau, Excel , Matplotlib, Seaborn.
