@@ -40,9 +40,9 @@ Soy un apasionado del Análisis de Datos, la Inteligencia de Negocios , las Fina
 <img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
 
 ## Habilidades
-- **Lenguajes de Programación:** SQL, Python, R, Visual Basic.
-- **Herramientas de Visualización:** Power BI, Tableau, Excel , Matplotlib, Seaborn.
-- **Otras:** Microsoft Office 365, Jupyter Lab, Anaconda, SAP, Adobe Photoshop.
+- **Lenguajes de Programación:** SQL, Python, R, Visual Basic, DAX(consultas).
+- **Herramientas de Visualización:** Power BI, Tableau, Excel , Matplotlib, Seaborn, Plotly.
+- **Otras:** Microsoft Office 365, Jupyter Lab, Anaconda, SAP, Adobe Photoshop, Spider.
 
 ## Contacto
 - **Email:** [ingsaidalioviedo@gmail.com](mailto:ingsaidalioviedo@gmail.com)
