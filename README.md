@@ -25,6 +25,17 @@ Soy un apasionado del Análisis de Datos, la Inteligencia de Negocios , las Fina
 
 <img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
 
+### [En Proceso: Análisis de Datos para el Control y la Prevención del Fraude y el Lavado de Dinero en los Servicios Financieros de Amazon]()
+- **Descripción:** Proceso EDA y construcción de un modelo estadístico predictivo de la dinámica de datos transaccionales categorizados como riesgosos por el SAGRILAFT.
+- **Herramientas:** Python, Jupyter Lab as IDE, R Studio, Pyplot.
+- **Resultados:** Modelo estadístico para la implementación de "Machine Learning" .
+
+<img src="assets/img/proyect_preview.png" alt="Proyecto RRHH" style="max-width: 100%; height: auto;">
+
+**Aún no se publican los resultados (Status = inProgress)**
+
+<img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
+
 ### [Diseño del sistema de reclutamiento y selección del personal basado en competencias para la fundación clínica del río, y su contribución en el desempeño laboral](https://repositorio.unicordoba.edu.co/handle/ucordoba/3895)
 - **Descripción:** Reconstrucción detallada del proceso de diseño de un sistema de reclutamiento y selección de personal del área asistencial y administrativa, basado en competencias.
 - **Herramientas:** Microsoft Excel, Microsoft Word, Dynamica SAP, Canvas.
