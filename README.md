@@ -25,6 +25,17 @@ Soy un apasionado del Análisis de Datos, la Inteligencia de Negocios , las Fina
 
 <img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
 
+### [Análisis estadístico y contrucción de un modelo predictivo de datos relacionados con la retención del Talento Humano en una empresa de Desarrollo de tecnología automotriz]()
+- **Descripción:** Análisis de los datos recolectados por el área de Talento Huamno y contrucción de un modelo que permita generar predicciones sobre la probabilidad de retención del personal actual en la empresa. Generando además, recomendaciones sobre cambios importantes que impacten positivamente la tasa de rotación del personal.
+- **Herramientas:** Anaconda, JupyterLab, Python, Pyplot, sklearn, seaborn, statsmodel.
+- **Resultados:** Modelo predictivo de retención del talento humano", Análisis estadístico del comportamiento de rotación del talento humano .
+
+<img src="assets/img/proyect_preview.png" alt="Proyecto RRHH" style="max-width: 100%; height: auto;">
+
+**Aún no se publican los resultados (Status = inProgress)**
+
+<img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
+
 ### [En Proceso: Análisis de Datos para el Control y la Prevención del Fraude y el Lavado de Dinero en los Servicios Financieros de Amazon]()
 - **Descripción:** Proceso EDA y construcción de un modelo estadístico predictivo de la dinámica de datos transaccionales categorizados como riesgosos por el SAGRILAFT.
 - **Herramientas:** Python, Jupyter Lab as IDE, R Studio, Pyplot.
