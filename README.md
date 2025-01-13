@@ -1,7 +1,7 @@
 # ¡Hola! Bienvenido a mi Portafolio
 ### Proyectos de: Ciencia de Datos | Productivos | Investigación
 
-Aquí encontrarás una selección de algunos de mis Proyectos Analíticos y de Ingeniería más destacados.
+Aquí encontrarás una selección de algunos de mis proyectos analíticos y de ingeniería más destacados.
 
 ## Sobre mí
 Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Finanzas Corporativas y los Sistemas Informáticos. Cuento con experiencia desarrollando proyectos de visualización de datos, modelado dimensional, modelado analítico, ingeniería de de datos y construcción de KPIs. Mi objetivo siempre, es convertir datos crudos en información valiosa para la toma de decisiones estratégica siguiendo "frameworks" de trabajo como CRISP-DM y SCRUM.
