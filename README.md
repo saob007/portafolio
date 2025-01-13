@@ -1,10 +1,10 @@
-# ¡Hola! Bienvenido a mi Portafolio 
-### Proyectos Productivos | Proyectos AD | Investigación
+# ¡Hola! Bienvenido a mi Portafolio
+### Proyectos de: Ciencia de Datos | Productivos | Investigación
 
-Aquí encontrarás una selección de mis Proyectos Analíticos y de Ingeniería más destacados.
+Aquí encontrarás una selección de algunos de mis Proyectos Analíticos y de Ingeniería más destacados.
 
 ## Sobre mí
-Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Finanzas Corporativas y los Sistemas Informáticos. Cuento con experiencia desarrollando proyectos de visualización, modelado dimensional y manipulación de datos. Mi objetivo, siempre, es convertir datos crudos en información valiosa para la toma de decisiones estratégica siguiendo metodologías de proyecto como CRISP-DM y SCRUM.
+Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Finanzas Corporativas y los Sistemas Informáticos. Cuento con experiencia desarrollando proyectos de visualización de datos, modelado dimensional, modelado analítico, ingeniería de de datos y construcción de KPIs. Mi objetivo siempre, es convertir datos crudos en información valiosa para la toma de decisiones estratégica siguiendo "frameworks" de trabajo como CRISP-DM y SCRUM.
 
 <img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
 
@@ -25,9 +25,9 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 
 <img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
 
-### [***En proceso:*** Análisis estadístico de datos relacionados con la rotación del Talento Humano y contrucción de un modelo predictivo de  permanencia en el cargo para una empresa de Desarrollo de tecnología automotriz]()
-- **Descripción:** Análisis de los datos recolectados por el área de Talento Humano y contrucción de un modelo que permita generar predicciones sobre la probabilidad de retención del personal actual en la empresa. Generando además, recomendaciones sobre cambios importantes que impacten positivamente la tasa de rotación del personal.
-- **Herramientas:** Anaconda, JupyterLab, Python, Pyplot, sklearn, seaborn, statsmodel.
+### [***En proceso:*** Análisis exporatorio y contrucción de un modelo predictivo de retención del talento humano, para una empresa de Desarrollo de tecnología automotriz]()
+- **Descripción:** Análisis estadístico de los datos recolectados por el área de Talento Humano y contrucción de un modelo que permita generar predicciones sobre la retención del personal en la entidad productiva. Generando además, recomendaciones sobre cambios importantes que impacten positivamente la tasa de rotación del personal.
+- **Herramientas:** Logistic Regression, Random Forest Algorithm, XGBoost Algorithm, scikit-learn , Anaconda, JupyterLab, Python, Pyplot, seaborn, statsmodel.
 - **Resultados:** Modelo predictivo de retención del talento humano, Análisis estadístico de los factores causales de rotación del talento humano.
 
 <img src="assets/img/proyect_preview.png" alt="Proyecto RRHH" style="max-width: 100%; height: auto;">
