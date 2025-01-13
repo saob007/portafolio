@@ -10,8 +10,8 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 
 ## Mis Proyectos Destacados
 ### [Datos para la inclusión: Análisis de las dinámicas crediticias de FINAGRO (2021-2024) en la inclusión financiera, diversificación agropecuaria y equidad de género en zonas rurales y de posconflicto en Colombia](https://github.com/saob007/Data-Analysis---Agrocr-ditos-FINAGRO-2023)
-- **Descripción:** Análisis explotaroio, creación de visuales y contrucción de KPIs utilizando Python y Power BI.
-- **Herramientas:** Jupyter Notebook, Python, R, Power BI.
+- **Descripción:** Análisis explotaroio, modelación dimensional, creación de visuales, contrucción de KPIs e inteligencia de negocios.
+- **Herramientas:** Jupyter Notebook, Python, R, Power BI, Pandas, Numpy, Matplotlib, Seaborn, DAX.
 - **Resultados:** Identificación y medición de la cobertura de créditos en tres dimensiones de estudio.
 
 <img src="assets/img/dashboard_preview.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
@@ -25,8 +25,8 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 
 <img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
 
-### [***En proceso:*** Análisis exploratorio y contrucción de un modelo predictivo de retención del talento humano, para una empresa de Desarrollo de tecnología automotriz]()
-- **Descripción:** Análisis estadístico de los datos recolectados por el área de Talento Humano y contrucción de un modelo que permita generar predicciones sobre la retención del personal en la entidad productiva. Generando además, recomendaciones sobre cambios importantes que impacten positivamente la tasa de rotación del personal.
+### [***En proceso:*** Análisis exploratorio y contrucción de un modelo predictivo de retención del talento humano, para una empresa de Desarrollo de tecnología automotriz]
+- **Descripción:** Análisis exploratorio, análisis estadístico, modelación analítica e inteligencia de negocios.
 - **Herramientas:** Logistic Regression, Random Forest Algorithm, XGBoost Algorithm, scikit-learn , Anaconda, JupyterLab, Python, Pyplot, seaborn, statsmodel.
 - **Resultados:** Modelo predictivo de retención del talento humano, Análisis estadístico de los factores causales de rotación del talento humano.
 
@@ -36,7 +36,7 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 
 <img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
 
-### [***En proceso:*** Análisis de Datos para el Control y la Prevención del Fraude y el Lavado de Dinero en los Servicios Financieros de Amazon]()
+### [***En proceso:*** Análisis de Datos para el Control y la Prevención del Fraude y el Lavado de Dinero en los Servicios Financieros de Amazon]
 - **Descripción:** Proceso EDA y construcción de un modelo estadístico predictivo de la dinámica de datos transaccionales categorizados como riesgosos por el SAGRILAFT.
 - **Herramientas:** Python, Jupyter Lab as IDE, R Studio, Pyplot.
 - **Resultados:** Modelo estadístico para la implementación de "Machine Learning" .
