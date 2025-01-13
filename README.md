@@ -25,7 +25,7 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 
 <img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
 
-### [***En proceso:*** Análisis exporatorio y contrucción de un modelo predictivo de retención del talento humano, para una empresa de Desarrollo de tecnología automotriz]()
+### [***En proceso:*** Análisis exploratorio y contrucción de un modelo predictivo de retención del talento humano, para una empresa de Desarrollo de tecnología automotriz]()
 - **Descripción:** Análisis estadístico de los datos recolectados por el área de Talento Humano y contrucción de un modelo que permita generar predicciones sobre la retención del personal en la entidad productiva. Generando además, recomendaciones sobre cambios importantes que impacten positivamente la tasa de rotación del personal.
 - **Herramientas:** Logistic Regression, Random Forest Algorithm, XGBoost Algorithm, scikit-learn , Anaconda, JupyterLab, Python, Pyplot, seaborn, statsmodel.
 - **Resultados:** Modelo predictivo de retención del talento humano, Análisis estadístico de los factores causales de rotación del talento humano.
