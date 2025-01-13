@@ -16,7 +16,7 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 
 <img src="assets/img/dashboard_preview.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
 
-**Consulta los resultados del proyecto según tu interés:**
+**Consulta los resultados del proyecto según tu interés sin tener que descargar:**
 
 [![Documento](assets/img/icons/documento_pdf.png)](https://drive.google.com/file/d/1OBtzkjvAvFkALHtV9D6mnRBfXR90X038/view?usp=drive_link "Visualiza el informe documental de la investigación")
 [![Kaggle](assets/img/icons/kaggle.png)](https://www.kaggle.com/code/saidalioviedobeltran/eda-para-agrocr-ditos-finagro-202101-202409 "Visita el cuaderno de Exploración analítica de los datos en Kaggle")
@@ -25,14 +25,16 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 
 <img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
 
-### [***En proceso:*** Análisis exploratorio y contrucción de un modelo predictivo de retención del talento humano, para una empresa de Desarrollo de tecnología automotriz]
+### [***En proceso:*** Análisis exploratorio y contrucción de un modelo predictivo de retención del talento humano, para una empresa de Desarrollo de tecnología automotriz](https://github.com/saob007/Modelado_retencion_personal_proyecto)
 - **Descripción:** Análisis exploratorio, análisis estadístico, modelación analítica e inteligencia de negocios.
 - **Herramientas:** Logistic Regression, Random Forest Algorithm, XGBoost Algorithm, scikit-learn , Anaconda, JupyterLab, Python, Pyplot, seaborn, statsmodel.
 - **Resultados:** Modelo predictivo de retención del talento humano, Análisis estadístico de los factores causales de rotación del talento humano.
 
 <img src="assets/img/proyect_preview.png" alt="Proyecto RRHH" style="max-width: 100%; height: auto;">
 
-**Aún no se publican los resultados (Status = inProgress)**
+**Consulta los resultados del proyecto según tu interés sin tener que descargar:**
+
+[![Kaggle](assets/img/icons/kaggle.png)](https://www.kaggle.com/code/saidalioviedobeltran/eda-para-agrocr-ditos-finagro-202101-202409 "Visita el cuaderno de Exploración analítica de los datos en Kaggle")
 
 <img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
 
