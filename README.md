@@ -34,6 +34,7 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 
 **Consulta los resultados del proyecto según tu interés sin tener que descargar nada:**
 
+[![Documento](assets/img/icons/documento_pdf.png)](https://drive.google.com/file/d/14gjjlcuHwZKhZKSsiMhb16HnbqYIt6ii/view?usp=drive_link "Visualiza el informe ejecutivo del proyecto de modelado")
 [![Kaggle](assets/img/icons/kaggle.png)](https://www.kaggle.com/code/saidalioviedobeltran/modelo-predictivo-retencion-proyecto "Visita el cuaderno de python del proyecto")
 
 <img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
