@@ -16,7 +16,7 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 
 <img src="assets/img/dashboard_preview.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
 
-**Consulta los resultados del proyecto según tu interés sin tener que descargar:**
+**Consulta los resultados del proyecto según tu interés sin tener que descargar nada:**
 
 [![Documento](assets/img/icons/documento_pdf.png)](https://drive.google.com/file/d/1OBtzkjvAvFkALHtV9D6mnRBfXR90X038/view?usp=drive_link "Visualiza el informe documental de la investigación")
 [![Kaggle](assets/img/icons/kaggle.png)](https://www.kaggle.com/code/saidalioviedobeltran/eda-para-agrocr-ditos-finagro-202101-202409 "Visita el cuaderno de Exploración analítica de los datos en Kaggle")
@@ -30,9 +30,9 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 - **Herramientas:** Logistic Regression, Random Forest Algorithm, XGBoost Algorithm, scikit-learn , Anaconda, JupyterLab, Python, Pyplot, seaborn, statsmodel.
 - **Resultados:** Modelo predictivo de deserción del talento humano, Análisis estadístico de los factores causales de retención del talento humano.
 
-<img src="assets/img/proyect_preview.png" alt="Proyecto RRHH" style="max-width: 100%; height: auto;">
+<img src="assets/img/notebook_proyecto.png" alt="Proyecto modelo predictivo desercion" style="max-width: 100%; height: auto;">
 
-**Consulta los resultados del proyecto según tu interés sin tener que descargar:**
+**Consulta los resultados del proyecto según tu interés sin tener que descargar nada:**
 
 [![Kaggle](assets/img/icons/kaggle.png)](https://www.kaggle.com/code/saidalioviedobeltran/modelo-predictivo-retencion-proyecto "Visita el cuaderno de python del proyecto")
 
@@ -56,7 +56,7 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 
 <img src="assets/img/informe_sistema.png" alt="Proyecto RRHH" style="max-width: 100%; height: auto;">
 
-**Consulta los resultados del proyecto según tu interés:**
+**Consulta los resultados del proyecto según tu interés sin tener que descargar nada:**
 
 [![Documento](assets/img/icons/documento_pdf.png)](https://repositorio.unicordoba.edu.co/server/api/core/bitstreams/21f02e45-c2bb-4a80-83bc-bc929433816c/content "Visualiza el informe del proyecto de práctica")
 [![Documento](assets/img/icons/documento_pdf.png)](https://repositorio.unicordoba.edu.co/server/api/core/bitstreams/43ffc4ed-95d1-47f0-b4bb-c78e0269f2f5/content "Visualiza los anexos del informe")
