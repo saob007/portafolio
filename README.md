@@ -25,7 +25,7 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 
 <img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
 
-### [Análisis exploratorio y contrucción de un modelo predictivo de desereción del talento humano, para una empresa de Desarrollo de tecnología automotriz](https://github.com/saob007/Modelado_retencion_personal_proyecto)
+### [Análisis exploratorio y contrucción de un modelo predictivo de deserción del talento humano, para una empresa de Desarrollo de tecnología automotriz](https://github.com/saob007/Modelado_retencion_personal_proyecto)
 - **Descripción:** Análisis exploratorio, análisis estadístico, modelación analítica e inteligencia de negocios.
 - **Herramientas:** Logistic Regression, Random Forest Algorithm, XGBoost Algorithm, scikit-learn , Anaconda, JupyterLab, Python, Pyplot, seaborn, statsmodel.
 - **Resultados:** Modelo predictivo de deserción del talento humano, Análisis estadístico de los factores causales de retención del talento humano.
