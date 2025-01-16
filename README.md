@@ -44,7 +44,7 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 - **Herramientas:** Power BI, Power Point, SODA Frameworks Project, AZURE DB.
 - **Resultados:** Tablero interactivo único para el seguimiento de indicadores y mediciones del área de atención al cliente.
 
-<img src="assets/img/dashboard_monitoreo_calidad_atenciones.jpg" alt="Proyecto tablero de monitoreo" style="max-width: 100%; height: auto;">
+<img src="assets/img/dashboard_monitoreo_calidad_atenciones.png" alt="Proyecto tablero de monitoreo" style="max-width: 100%; height: auto;">
 
 **Consulta los resultados del proyecto según tu interés sin tener que descargar nada:**
 
