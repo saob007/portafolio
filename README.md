@@ -39,6 +39,19 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 
 <img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
 
+### [Diseño de un tablero interáctivo para el monitoreo de la calidad del proceso de atención ejecutado por la Personería de Manizales](https://github.com/saob007/Tablero_monitoreo_calidad_atenciones)
+- **Descripción:** Creación de visualizaciones de datos.
+- **Herramientas:** Power BI, Power Point, SODA Frameworks Project, AZURE DB.
+- **Resultados:** Tablero interactivo único para el seguimiento de indicadores y mediciones del área de atención al cliente.
+
+<img src="assets/img/notebook_proyecto.png" alt="Proyecto modelo predictivo desercion" style="max-width: 100%; height: auto;">
+
+**Consulta los resultados del proyecto según tu interés sin tener que descargar nada:**
+
+[![Power BI](assets/img/icons/power_bi.png)](https://project.novypro.com/LnC4eD "Visualiza el tablero en Novypro")
+
+<img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
+
 ### [***En proceso:*** Análisis de Datos para el Control y la Prevención del Fraude y el Lavado de Dinero en los Servicios Financieros de Amazon]
 - **Descripción:** Proceso EDA y construcción de un modelo estadístico predictivo de la dinámica de datos transaccionales categorizados como riesgosos por el SAGRILAFT.
 - **Herramientas:** Python, Jupyter Lab as IDE, R Studio, Pyplot.
