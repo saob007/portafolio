@@ -15,7 +15,9 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 - **Herramientas:** Jupyter Notebook, Python, R, Power BI, Pandas, Numpy, Matplotlib, Seaborn, DAX.
 - **Resultados:** Identificación y medición de la cobertura de créditos en tres dimensiones de estudio.
 
-<img src="assets/img/dashboard_preview.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
+<p align="center">
+    <img src="assets/img/dashboard_preview.png" alt="Proyecto de análisis de dinámicas crediticas" width="900">
+</p>
 
 **Consulta los resultados del proyecto según tu interés sin tener que descargar nada:**
 
@@ -32,7 +34,9 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 - **Herramientas:** Logistic Regression, Random Forest Algorithm, XGBoost Algorithm, scikit-learn , Anaconda, JupyterLab, Python, Pyplot, seaborn, statsmodel.
 - **Resultados:** Modelo predictivo de deserción del talento humano, Análisis estadístico de los factores causales de retención del talento humano.
 
-<img src="assets/img/notebook_proyecto.png" alt="Proyecto modelo predictivo desercion" style="max-width: 100%; height: auto;">
+<p align="center">
+    <img src="assets/img/notebook_proyecto.png" alt="Proyecto de predicción sobre deserción laboral" width="900">
+</p>
 
 **Consulta los resultados del proyecto según tu interés sin tener que descargar nada:**
 
@@ -47,7 +51,9 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 - **Herramientas:** Power BI, Power Point, SODA Frameworks Project, AZURE DB.
 - **Resultados:** Tablero interactivo único para el seguimiento de indicadores y mediciones del área de atención al cliente.
 
-<img src="assets/img/dashboard_monitoreo_calidad_atenciones.png" alt="Proyecto tablero de monitoreo" style="max-width: 100%; height: auto;">
+<p align="center">
+    <img src="assets/img/dashboard_monitoreo_calidad_atenciones.png" alt="Proyecto tablero de monitoreo" width="900">
+</p>
 
 **Consulta los resultados del proyecto según tu interés sin tener que descargar nada:**
 
@@ -61,7 +67,9 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 - **Herramientas:** Python, Jupyter Lab as IDE, R Studio, Pyplot.
 - **Resultados:** Modelo estadístico para la implementación de "Machine Learning" .
 
-<img src="assets/img/proyect_preview.png" alt="Proyecto RRHH" style="max-width: 100%; height: auto;">
+<p align="center">
+    <img src="assets/img/proyect_preview.png" alt="Proyecto en curso" width="900">
+</p>
 
 **Aún no se publican los resultados (Status = inProgress)**
 
@@ -73,7 +81,9 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 - **Herramientas:** Microsoft Excel, Microsoft Word, Dynamica SAP, Canvas.
 - **Resultados:** Formatos y manuales de métodos & procedimientos .
 
-<img src="assets/img/informe_sistema.png" alt="Proyecto RRHH" style="max-width: 100%; height: auto;">
+<p align="center">
+    <img src="assets/img/informe_sistema.png" alt="Proyecto de diseño de procesos RR.HH." width="900">
+</p>
 
 **Consulta los resultados del proyecto según tu interés sin tener que descargar nada:**
 
