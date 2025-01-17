@@ -76,13 +76,13 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 <img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
 
 ### [Formulación de un plan de negocio para la creación de una agencia especializada en la gestión y cobranza de carteras de deuda, direccionada a PYMES de la ciudad de Montería](https://github.com/saob007/Plan_negocios_empresa_cobranza)
-- **Resumen:** Este proyecto plantea el plan estratégico de negocio para SOLUCIONES DE COBRANZA S.A.S. (SODECO), una empresa regional, especializada en la gestión de carteras de crédito para PYMES y que busca posicionarse como un aliado estratégico, ofreciendo soluciones que reduzcan la morosidad y mejoren la liquidez empresarial. Todo esto con base en un análisis del mercado local y proyecciones financieras realistas, garantizando estrategias alineadas con las necesidades de los clientes y los objetivos comerciales.
+- **Resumen:** Plan estratégico de negocio para SOLUCIONES DE COBRANZA S.A.S. (SODECO), una empresa regional especializada en la gestión de carteras de crédito para PYMES y que busca posicionarse como un aliado estratégico, ofreciendo soluciones que reduzcan la morosidad y mejoren la liquidez empresarial. Todo esto con base en un análisis del mercado local y proyecciones financieras realistas, garantizando estrategias alineadas con las necesidades de los clientes y los objetivos comerciales.
 - **Áreas de trabajo:** Credito y cobranza, administración de la liquidez, gestión de proyectos, estudios de operabilidad.
 - **Herramientas:** Microsoft Excel, Microsoft Word, Gantter para la gestión de proyectos, Google Workspace, Microsoft Forms.
 - **Resultados:** Plan integral estratégico para la puesta en marcha de una unidad productiva de negocio .
 
 <p align="center">
-    <img src="assets/img/informe_sistema.png" alt="Proyecto de diseño de procesos RR.HH." width="900">
+    <img src="assets/img/proyecto_empresarial_sodeco.png" alt="Proyecto empresarial" width="900">
 </p>
 
 **Consulta los resultados del proyecto según tu interés sin tener que descargar ningún archivo:**
