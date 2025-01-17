@@ -1,5 +1,5 @@
 # ¡Hola! Bienvenido a mi Portafolio
-### Proyectos de: Ciencia de Datos | Empresa | Investigación
+### Proyectos de: Ciencia de Datos | Empresa | BI |Investigación
 
 Aquí encontrarás una selección de algunos de mis proyectos analíticos y de ingeniería más destacados.
 
