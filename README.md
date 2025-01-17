@@ -90,6 +90,7 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 
 [![Documento](assets/img/icons/documento_pdf.png)](https://drive.google.com/file/d/1AKkYS4mxXTNlpEmiWfTu16NR9q_FhtGE/view?usp=sharing "Visualiza el plan de negocios del proyecto empresarial")
 [![Documento](assets/img/icons/excel_file.png)](https://docs.google.com/spreadsheets/d/1KiFMaMhRsP7lS4Ns-G-lJn86xOvhr3yT/edit?usp=sharing&ouid=101365071772666300093&rtpof=true&sd=true "Visualiza los estudios del proyecto")
+[![Documento](assets/img/icons/presentation_file.png)](https://drive.google.com/file/d/1zNyx6qzrviUQtpPPqjDUQUAmPORyjt9d/view?usp=sharing "Visualiza de la presentación del proyecto")
 
 <img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
 
