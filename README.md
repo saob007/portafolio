@@ -19,7 +19,7 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
     <img src="assets/img/dashboard_preview.png" alt="Proyecto de análisis de dinámicas crediticas" width="900">
 </p>
 
-**Consulta los resultados del proyecto según tu interés sin tener que descargar nada:**
+**Consulta los resultados del proyecto según tu interés sin tener que descargar ningún archivo:**
 
 [![Documento](assets/img/icons/documento_pdf.png)](https://drive.google.com/file/d/1OBtzkjvAvFkALHtV9D6mnRBfXR90X038/view?usp=drive_link "Visualiza el informe documental de la investigación")
 [![Kaggle](assets/img/icons/kaggle.png)](https://www.kaggle.com/code/saidalioviedobeltran/eda-para-agrocr-ditos-finagro-202101-202409 "Visita el cuaderno de Exploración analítica de los datos en Kaggle")
@@ -38,7 +38,7 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
     <img src="assets/img/notebook_proyecto.png" alt="Proyecto de predicción sobre deserción laboral" width="900">
 </p>
 
-**Consulta los resultados del proyecto según tu interés sin tener que descargar nada:**
+**Consulta los resultados del proyecto según tu interés sin tener que descargar ningún archivo:**
 
 [![Documento](assets/img/icons/documento_pdf.png)](https://drive.google.com/file/d/14gjjlcuHwZKhZKSsiMhb16HnbqYIt6ii/view?usp=drive_link "Visualiza el informe ejecutivo del proyecto de modelado")
 [![Kaggle](assets/img/icons/kaggle.png)](https://www.kaggle.com/code/saidalioviedobeltran/modelo-predictivo-retencion-proyecto "Visita el cuaderno de python del proyecto")
@@ -55,7 +55,7 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
     <img src="assets/img/dashboard_monitoreo_calidad_atenciones.png" alt="Proyecto tablero de monitoreo" width="900">
 </p>
 
-**Consulta los resultados del proyecto según tu interés sin tener que descargar nada:**
+**Consulta los resultados del proyecto según tu interés sin tener que descargar ningún archivo:**
 
 [![Power BI](assets/img/icons/power_bi.png)](https://project.novypro.com/LnC4eD "Visualiza el tablero en Novypro")
 
@@ -75,9 +75,26 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 
 <img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
 
+### [Formulación de un plan de negocio para la creación de una agencia especializada en la gestión y cobranza de carteras de deuda, direccionada a PYMES de la ciudad de Montería](https://github.com/saob007/Plan_negocios_empresa_cobranza)
+- **Resumen:** Este proyecto plantea el plan estratégico de negocio para SOLUCIONES DE COBRANZA S.A.S. (SODECO), una empresa regional, especializada en la gestión de carteras de crédito para PYMES y que busca posicionarse como un aliado estratégico, ofreciendo soluciones que reduzcan la morosidad y mejoren la liquidez empresarial. Todo esto con base en un análisis del mercado local y proyecciones financieras realistas, garantizando estrategias alineadas con las necesidades de los clientes y los objetivos comerciales.
+- **Áreas de trabajo:** Credito y cobranza, administración de la liquidez, gestión de proyectos, estudios de operabilidad.
+- **Herramientas:** Microsoft Excel, Microsoft Word, Gantter para la gestión de proyectos, Google Workspace, Microsoft Forms.
+- **Resultados:** Plan integral estratégico para la puesta en marcha de una unidad productiva de negocio .
+
+<p align="center">
+    <img src="assets/img/informe_sistema.png" alt="Proyecto de diseño de procesos RR.HH." width="900">
+</p>
+
+**Consulta los resultados del proyecto según tu interés sin tener que descargar ningún archivo:**
+
+[![Documento](assets/img/icons/documento_pdf.png)](https://drive.google.com/file/d/1AKkYS4mxXTNlpEmiWfTu16NR9q_FhtGE/view?usp=sharing "Visualiza el plan de negocios del proyecto empresarial")
+[![Documento](assets/img/icons/excel_file.png)](https://docs.google.com/spreadsheets/d/1KiFMaMhRsP7lS4Ns-G-lJn86xOvhr3yT/edit?usp=sharing&ouid=101365071772666300093&rtpof=true&sd=true "Visualiza los estudios del proyecto")
+
+<img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
+
 ### [Diseño del sistema de reclutamiento y selección del personal basado en competencias para la fundación clínica del río, y su contribución en el desempeño laboral](https://repositorio.unicordoba.edu.co/handle/ucordoba/3895)
 - **Resumen:** Reconstrucción detallada del proceso de diseño de un sistema de reclutamiento y selección de personal del área asistencial y administrativa, basado en competencias para una entidad del sector salud.
-- **Descripción:** Ingeniería de procesos, levantamiento documental y planeación del trabajo.
+- **Áreas de trabajo:** Ingeniería de procesos, levantamiento documental y planeación del trabajo.
 - **Herramientas:** Microsoft Excel, Microsoft Word, Dynamica SAP, Canvas.
 - **Resultados:** Formatos y manuales de métodos & procedimientos .
 
@@ -85,7 +102,7 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
     <img src="assets/img/informe_sistema.png" alt="Proyecto de diseño de procesos RR.HH." width="900">
 </p>
 
-**Consulta los resultados del proyecto según tu interés sin tener que descargar nada:**
+**Consulta los resultados del proyecto según tu interés sin tener que descargar ningún archivo:**
 
 [![Documento](assets/img/icons/documento_pdf.png)](https://repositorio.unicordoba.edu.co/server/api/core/bitstreams/21f02e45-c2bb-4a80-83bc-bc929433816c/content "Visualiza el informe del proyecto de práctica")
 [![Documento](assets/img/icons/documento_pdf.png)](https://repositorio.unicordoba.edu.co/server/api/core/bitstreams/43ffc4ed-95d1-47f0-b4bb-c78e0269f2f5/content "Visualiza los anexos del informe")
