@@ -11,7 +11,7 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 ## Mis Proyectos Destacados
 ### [Datos para la inclusión: Análisis de las dinámicas crediticias de FINAGRO (2021-2024) en la inclusión financiera, diversificación agropecuaria y equidad de género en zonas rurales y de posconflicto en Colombia](https://github.com/saob007/Data-Analysis---Agrocr-ditos-FINAGRO-2023)
 - **Resumen:** Análisis exploratorio de datos y visualización de insights y KPIs basado en el historial de operaciones crediticias del Fondo para el Financiamiento del Sector Agropecuario (FINAGRO) entre enero de 2021 y septiembre de 2024. El estudio se centra en evaluar el impacto de los créditos colocados en tres dimensiones clave: inclusión financiera, diversificación agropecuaria y equidad de género.
-- **Descripción:** Análisis explotaroio, modelación dimensional, creación de visuales, contrucción de KPIs e inteligencia de negocios.
+- **Áreas de trabajo:** Análisis exploratorio de datos (EDA) , modelado dimensional, creación de tablero interactivo, contrucción de KPIs e inteligencia de negocios.
 - **Herramientas:** Jupyter Notebook, Python, R, Power BI, Pandas, Numpy, Matplotlib, Seaborn, DAX.
 - **Resultados:** Identificación y medición de la cobertura de créditos en tres dimensiones de estudio.
 
@@ -28,7 +28,7 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 
 ### [Análisis exploratorio y contrucción de un modelo predictivo de deserción del talento humano, para una empresa de desarrollo de tecnología automotriz](https://github.com/saob007/Modelado_retencion_personal_proyecto)
 - **Resumen:** Desarrollo de modelos predictivos mediante regresión logística, bosque aleatorio (Random Forest) y árboles de decisión potenciados por gradientes (XGBoost) para predecir desvinculación de empleados en una empresa del sector industrial. El objetivo es identificar el modelo con mejor rendimiento, proporcionando a los stakeholders una herramienta para predecir riesgos de deserción y optimizar la retención del talento humano.
-- **Descripción:** Análisis exploratorio, análisis estadístico, modelación analítica e inteligencia de negocios.
+- **Áreas de trabajo:** Análisis exploratorio de datos (EDA), análisis estadístico, modelación analítica para problemas de clasificación e inteligencia de negocios.
 - **Herramientas:** Logistic Regression, Random Forest Algorithm, XGBoost Algorithm, scikit-learn , Anaconda, JupyterLab, Python, Pyplot, seaborn, statsmodel.
 - **Resultados:** Modelo predictivo de deserción del talento humano, Análisis estadístico de los factores causales de retención del talento humano.
 
@@ -43,7 +43,7 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 
 ### [Diseño de un tablero interáctivo para el monitoreo de la calidad del proceso de atención ejecutado por la Personería de Manizales](https://github.com/saob007/Tablero_monitoreo_calidad_atenciones)
 - **Resumen:** Diseño e implementación de un tablero de control interactivo en Power BI Service para el seguimiento y análisis de métricas del proceso de atención al usuario en la Personería de Manizales. Este tablero servirá como una herramienta clave para monitorear la calidad del servicio, facilitando la extracción visual de insights, apoyando la toma de decisiones estratégicas.
-- **Descripción:** Creación de visualizaciones de datos.
+- **Áreas de trabajo:** Creación de productos dinámicos para la visualización de datos (tablero interáctivo).
 - **Herramientas:** Power BI, Power Point, SODA Frameworks Project, AZURE DB.
 - **Resultados:** Tablero interactivo único para el seguimiento de indicadores y mediciones del área de atención al cliente.
 
@@ -56,7 +56,8 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 <img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
 
 ### [***En proceso:*** Análisis de Datos para el Control y la Prevención del Fraude y el Lavado de Dinero en los Servicios Financieros de Amazon]
-- **Descripción:** Proceso EDA y construcción de un modelo estadístico predictivo de la dinámica de datos transaccionales categorizados como riesgosos por el SAGRILAFT.
+- **Resumen:** Proceso EDA y construcción de un modelo predictivo para el reconocimiento de transacciones fraudulentas categorizadas como riesgosas por el Sistema de Autocontrol y Gestión del Riesgo Integral de Lavado de Activos, Financiación del Terrorismo y Financiamiento de la Proliferación de Armas de Destrucción Masiva (SAGRILAFT).
+- **Descripción:** Análisis exploratorio de datos (EDA), modelación analítica para problemas de clasificación e inteligencia de negocios.
 - **Herramientas:** Python, Jupyter Lab as IDE, R Studio, Pyplot.
 - **Resultados:** Modelo estadístico para la implementación de "Machine Learning" .
 
@@ -67,7 +68,8 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 <img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
 
 ### [Diseño del sistema de reclutamiento y selección del personal basado en competencias para la fundación clínica del río, y su contribución en el desempeño laboral](https://repositorio.unicordoba.edu.co/handle/ucordoba/3895)
-- **Descripción:** Reconstrucción detallada del proceso de diseño de un sistema de reclutamiento y selección de personal del área asistencial y administrativa, basado en competencias.
+- **Resumen:** Reconstrucción detallada del proceso de diseño de un sistema de reclutamiento y selección de personal del área asistencial y administrativa, basado en competencias para una entidad del sector salud.
+- **Descripción:** Ingeniería de procesos, levantamiento documental y planeación del trabajo.
 - **Herramientas:** Microsoft Excel, Microsoft Word, Dynamica SAP, Canvas.
 - **Resultados:** Formatos y manuales de métodos & procedimientos .
 
