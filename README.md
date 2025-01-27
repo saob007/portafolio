@@ -75,7 +75,7 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 
 **Consulta los resultados del proyecto según tu interés sin tener que descargar ningún archivo:**
 
-[![Resumen Ejecutivo](assets/img/icons/resumen.png)](https://drive.google.com/file/d/14gjjlcuHwZKhZKSsiMhb16HnbqYIt6ii/view?usp=drive_link "Visualiza el resumen ejecutivo del proyecto")
+[![Resumen Ejecutivo](assets/img/icons/resumen.png)](https://drive.google.com/file/d/1OpTEPoYtq_hc2NCiiLwo7Wwd6HLEhDnj/view?usp=sharing "Visualiza el resumen ejecutivo del proyecto")
 [![Kaggle](assets/img/icons/kaggle.png)](https://www.kaggle.com/code/saidalioviedobeltran/proyecto-rentabilidad-fic "Visita el cuaderno de python del proyecto")
 
 <img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
