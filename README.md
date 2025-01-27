@@ -63,6 +63,23 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 
 <img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
 
+### [AD-CD] [Estudio exploratorio e impacto de las características operativas en la rentabilidad mensual de fondos de inversión colectiva en 2024](https://github.com/saob007/Modelado_rentabilidad_fic_proyecto)
+- **Resumen:** Análisis de las características operativas de los Fondos de Inversión Colectiva (FIC) en Colombia y su impacto en la rentabilidad mensual de cada fondo, usando datos de 2024 suministrados por la Superintendencia Financiera. Aunque las variables individuales no mostraron correlaciones significativas con la rentabilidad, el modelo Random Forest logró un buen desempeño ajustandose a los datos, superando a otros modelos y demostrando que sus predicciones son medianamente correctas. El análisis destacó que el valor unitario de las operaciones y el valor de cierre diario de los fondos son las variables más influyentes, mientras que el número de inversionistas y la administración de los fondos por una entidad de tipo SF-Sociedad Fiduciaria también tienen peso significativo en menor medida.
+- **Áreas de trabajo:** Análisis exploratorio de datos (EDA), análisis estadístico, modelación analítica para problemas de regresión.
+- **Herramientas:** Lineal Regression, Random Forest Regressor, XGBoost Regressor, Lasso Regression, MLP Regressor, scikit-learn , Anaconda, JupyterLab, Python, Pyplot, seaborn, FireDucks, Numpy, Pickle.
+- **Resultados:** Análisis de la distribución y evolución de la rentabilidad de los fondos de inversión colectiva en el periodo 2024, Modelo analítico predictivo de la rentabilidad mensual, Identificación de los factores significativamente incidentes en la rentabilidad.
+
+<p align="center">
+    <img src="assets/img/modelado_rentabilidad_preview.png" alt="Proyecto de modelado analítico sobre rentabilidad mensual de los FIC 2024" width="900">
+</p>
+
+**Consulta los resultados del proyecto según tu interés sin tener que descargar ningún archivo:**
+
+[![Documento](assets/img/icons/documento_pdf.png)](https://drive.google.com/file/d/14gjjlcuHwZKhZKSsiMhb16HnbqYIt6ii/view?usp=drive_link "Visualiza el informe ejecutivo del proyecto")
+[![Kaggle](assets/img/icons/kaggle.png)](https://www.kaggle.com/code/saidalioviedobeltran/proyecto-rentabilidad-fic "Visita el cuaderno de python del proyecto")
+
+<img src="assets/img/separator.png" alt="Proyecto 1" style="max-width: 100%; height: auto;">
+
 ### [AD-CD] [***En proceso:*** Análisis de Datos para el Control y la Prevención del Fraude y el Lavado de Dinero en los Servicios Financieros de Amazon]
 - **Resumen:** Proceso EDA y construcción de un modelo predictivo para el reconocimiento de transacciones fraudulentas categorizadas como riesgosas por el Sistema de Autocontrol y Gestión del Riesgo Integral de Lavado de Activos, Financiación del Terrorismo y Financiamiento de la Proliferación de Armas de Destrucción Masiva (SAGRILAFT).
 - **Descripción:** Análisis exploratorio de datos (EDA), modelación analítica para problemas de clasificación e inteligencia de negocios.
