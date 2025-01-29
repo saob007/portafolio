@@ -58,8 +58,8 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 
 **Consulta los resultados del proyecto según tu interés sin tener que descargar ningún archivo:**
 
-[![Power BI](assets/img/icons/power_bi.png)](https://project.novypro.com/LnC4eD "Visualiza el tablero en Novypro")
 [![Resumen Ejecutivo](assets/img/icons/resumen.png)](https://drive.google.com/file/d/1rERvBfoocET4kmWstNeQRmTti62XhVhD/view?usp=sharing "Visualiza el resumen ejecutivo del proyecto BI")
+[![Power BI](assets/img/icons/power_bi.png)](https://project.novypro.com/LnC4eD "Visualiza el tablero en Novypro")
 
 <img src="assets/img/separator.png" alt="" style="max-width: 100%; height: auto;">
 
