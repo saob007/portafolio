@@ -53,7 +53,7 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
     <img src="assets/img/separator2.png" alt="" width="100%">
 </p>
 
-### [BI] [Informe Visual y Tablero de Análisis de Subsidios, Consumo y Facturación del Servicio de Agua en Sincelejo (2020)](https://github.com/saob007/Tablero_subsidios_servicio_agua)
+### [BI] [Informe Visual y Tablero de Análisis de Subsidios, Consumo y Facturación del Servicio de Agua en la ciudad de Sincelejo (2020)](https://github.com/saob007/Tablero_subsidios_servicio_agua)
 - **Resumen:** Diseño de un tablero de informe estático en Looker Studio para el análisis de la distribución y asignación de subsidios otorgados por la Secretaría de Planeación de la Alcaldía de Sincelejo en el año 2020 en relación con el servicio de agua potable y alcantarillado. Se busca identificar patrones en la cobertura, consumo, facturación y subsidios, proporcionando información clave para la toma de decisiones en políticas internas de subsidios.
 - **Áreas de trabajo:** Creación de informes estáticos para el análisis de datos.
 - **Herramientas:** Looker Studio, Google Workspace, LookML, Microsoft Power Point, Microsoft Excel, .
