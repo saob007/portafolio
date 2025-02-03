@@ -8,7 +8,7 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Finanzas Corporativas y los Sistemas Informáticos. Cuento con experiencia desarrollando proyectos de análisis y visualización de datos, modelado dimensional, modelado analítico, ingeniería de de datos y construcción de KPIs. Mi objetivo siempre, es convertir datos crudos en información valiosa para la toma de decisiones estratégica siguiendo "frameworks" de trabajo como CRISP-DM y SCRUM.
 
 <p align="center">
-    <img src="assets/img/separator2.png" alt="" width="1000">
+    <img src="assets/img/separator2.png" alt="" width="100%">
 </p>
 
 ## Mis Proyectos Destacados
@@ -31,7 +31,7 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 [![Imagenes](assets/img/icons/images.png)](https://drive.google.com/drive/folders/1qbubBjVsBsnivm2bAqC-CJZGejwTpZ8u?usp=drive_link "Visualiza imágenes del Modelo Dimensional, Arqutectura y Tablero de Informes")
 
 <p align="center">
-    <img src="assets/img/separator2.png" alt="" width="1000">
+    <img src="assets/img/separator2.png" alt="" width="100%">
 </p>
 
 ### [AD-CD] [Análisis exploratorio y contrucción de un modelo predictivo de deserción del talento humano, para una empresa de desarrollo de tecnología automotriz](https://github.com/saob007/Modelado_retencion_personal_proyecto)
@@ -50,7 +50,7 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 [![Kaggle](assets/img/icons/ipynb2.png)](https://www.kaggle.com/code/saidalioviedobeltran/modelo-predictivo-retencion-proyecto "Visita el cuaderno de python del proyecto")
 
 <p align="center">
-    <img src="assets/img/separator2.png" alt="" width="1000">
+    <img src="assets/img/separator2.png" alt="" width="100%">
 </p>
 
 ### [BI] [Informe Visual y Tablero de Análisis de Subsidios, Consumo y Facturación del Servicio de Agua en Sincelejo (2020)](https://github.com/saob007/Tablero_subsidios_servicio_agua)
@@ -69,7 +69,7 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 [![Dashboard on Looker Studio](assets/img/icons/looker_studio.png)](https://lookerstudio.google.com/s/k3qeuXaVn2o "Visualiza el tablero en Looker Studio")
 
 <p align="center">
-    <img src="assets/img/separator2.png" alt="" width="1000">
+    <img src="assets/img/separator2.png" alt="" width="100%">
 </p>
 
 ### [BI] [Diseño de un tablero interáctivo para el monitoreo de la calidad del proceso de atención ejecutado por la Personería de Manizales](https://github.com/saob007/Tablero_monitoreo_calidad_atenciones)
@@ -88,7 +88,7 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 [![Power BI](assets/img/icons/power_bi.png)](https://project.novypro.com/LnC4eD "Visualiza el tablero en Novypro")
 
 <p align="center">
-    <img src="assets/img/separator2.png" alt="" width="1000">
+    <img src="assets/img/separator2.png" alt="" width="100%">
 </p>
 
 ### [AD-CD] [Estudio exploratorio e impacto de las características operativas en la rentabilidad mensual de fondos de inversión colectiva en 2024](https://github.com/saob007/Modelado_rentabilidad_fic_proyecto)
@@ -107,7 +107,7 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 [![Kaggle](assets/img/icons/ipynb2.png)](https://www.kaggle.com/code/saidalioviedobeltran/proyecto-rentabilidad-fic "Visita el cuaderno de python del proyecto")
 
 <p align="center">
-    <img src="assets/img/separator2.png" alt="" width="1000">
+    <img src="assets/img/separator2.png" alt="" width="100%">
 </p>
 
 ### [AD-BI] [Análisis de Datos en iGaming: Insights visuales para la toma de decisiones estratégicas según patrones de depósito en usuarios de servicios de entretenimiento y apuestas](https://github.com/saob007/Eda_dashboard_gambling_proyecto.git)
@@ -128,7 +128,7 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 [![Imagenes](assets/img/icons/images.png)](https://drive.google.com/drive/folders/13cBGpvd6hwJxY4v4TGl2HGE2oT5-UIKy?usp=sharing "Visualiza imágenes del Tablero de Informe")
 
 <p align="center">
-    <img src="assets/img/separator2.png" alt="" width="1000">
+    <img src="assets/img/separator2.png" alt="" width="100%">
 </p>
 
 ### [AD-CD] [***En proceso:*** Análisis de Datos para el Control y la Prevención del Fraude y el Lavado de Dinero en los Servicios Financieros de Amazon]
@@ -144,7 +144,7 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 **Aún no se publican los resultados (Status = inProgress)**
 
 <p align="center">
-    <img src="assets/img/separator2.png" alt="" width="1000">
+    <img src="assets/img/separator2.png" alt="" width="100%">
 </p>
 
 ### [EM] [Formulación de un plan de negocio para la creación de una agencia especializada en la gestión y cobranza de carteras de deuda, direccionada a PYMES de la ciudad de Montería](https://github.com/saob007/Plan_negocios_empresa_cobranza)
@@ -164,7 +164,7 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 [![Documento](assets/img/icons/presentation_file.png)](https://drive.google.com/file/d/1zNyx6qzrviUQtpPPqjDUQUAmPORyjt9d/view?usp=sharing "Visualiza de la presentación del proyecto")
 
 <p align="center">
-    <img src="assets/img/separator2.png" alt="" width="1000">
+    <img src="assets/img/separator2.png" alt="" width="100%">
 </p>
 
 ### [EM] [Diseño del sistema de reclutamiento y selección del personal basado en competencias para la fundación clínica del río, y su contribución en el desempeño laboral](https://repositorio.unicordoba.edu.co/handle/ucordoba/3895)
@@ -183,7 +183,7 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 [![Documento](assets/img/icons/documento_pdf.png)](https://repositorio.unicordoba.edu.co/server/api/core/bitstreams/43ffc4ed-95d1-47f0-b4bb-c78e0269f2f5/content "Visualiza los anexos del informe")
 
 <p align="center">
-    <img src="assets/img/separator2.png" alt="" width="1000">
+    <img src="assets/img/separator2.png" alt="" width="100%">
 </p>
 
 ## Habilidades
