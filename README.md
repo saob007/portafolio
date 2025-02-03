@@ -7,7 +7,9 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 ## Sobre mí
 Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Finanzas Corporativas y los Sistemas Informáticos. Cuento con experiencia desarrollando proyectos de análisis y visualización de datos, modelado dimensional, modelado analítico, ingeniería de de datos y construcción de KPIs. Mi objetivo siempre, es convertir datos crudos en información valiosa para la toma de decisiones estratégica siguiendo "frameworks" de trabajo como CRISP-DM y SCRUM.
 
-<img src="assets/img/separator.png" alt="" style="max-width: 100%; height: auto;">
+<p align="center">
+    <img src="assets/img/separator2.png" alt="" width="900">
+</p>
 
 ## Mis Proyectos Destacados
 ### [AD-BI] [Datos para la inclusión: Análisis de las dinámicas crediticias de FINAGRO (2021-2024) en la inclusión financiera, diversificación agropecuaria y equidad de género en zonas rurales y de posconflicto en Colombia](https://github.com/saob007/Data-Analysis---Agrocr-ditos-FINAGRO-2023)
@@ -44,6 +46,23 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 
 [![Resumen Ejecutivo](assets/img/icons/resumen.png)](https://drive.google.com/file/d/14gjjlcuHwZKhZKSsiMhb16HnbqYIt6ii/view?usp=drive_link "Visualiza el resumen ejecutivo del proyecto de modelado")
 [![Kaggle](assets/img/icons/ipynb2.png)](https://www.kaggle.com/code/saidalioviedobeltran/modelo-predictivo-retencion-proyecto "Visita el cuaderno de python del proyecto")
+
+<img src="assets/img/separator.png" alt="" style="max-width: 100%; height: auto;">
+
+### [BI] [Informe Visual y Tablero de Análisis de Subsidios, Consumo y Facturación del Servicio de Agua en Sincelejo (2020)](https://github.com/saob007/Tablero_subsidios_servicio_agua)
+- **Resumen:** Diseño de un tablero de informe estático en Looker Studio para el análisis de la distribución y asignación de subsidios otorgados por la Secretaría de Planeación de la Alcaldía de Sincelejo en el año 2020 en relación con el servicio de agua potable y alcantarillado. Se busca identificar patrones en la cobertura, consumo, facturación y subsidios, proporcionando información clave para la toma de decisiones en políticas internas de subsidios.
+- **Áreas de trabajo:** Creación de informes estáticos para el análisis de datos.
+- **Herramientas:** Looker Studio, Google Workspace, LookML, Microsoft Power Point, Microsoft Excel, .
+- **Resultados:** Tablero de informe estático para el análisis de cobertura, mediciones y subsidios del servicio de acueducto y alcantarillado.
+
+<p align="center">
+    <img src="assets/img/dashboard_preview_planeacion.png" alt="Proyecto tablero de subsidios | Sincelejo 2020" width="900">
+</p>
+
+**Consulta los resultados del proyecto según tu interés sin tener que descargar ningún archivo:**
+
+[![Resumen Ejecutivo](assets/img/icons/resumen.png)](https://drive.google.com/file/d/12HZY8SrlE5HSe9Z_D8ljwpEIXc_W3x4G/view?usp=sharing "Visualiza el resumen ejecutivo del proyecto BI")
+[![Dashboard on Looker Studio](assets/img/icons/looker_studio.png)](https://lookerstudio.google.com/s/k3qeuXaVn2o "Visualiza el tablero en Looker Studio")
 
 <img src="assets/img/separator.png" alt="" style="max-width: 100%; height: auto;">
 
