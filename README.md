@@ -8,7 +8,7 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Finanzas Corporativas y los Sistemas Informáticos. Cuento con experiencia desarrollando proyectos de análisis y visualización de datos, modelado dimensional, modelado analítico, ingeniería de de datos y construcción de KPIs. Mi objetivo siempre, es convertir datos crudos en información valiosa para la toma de decisiones estratégica siguiendo "frameworks" de trabajo como CRISP-DM y SCRUM.
 
 <p align="center">
-    <img src="assets/img/separator2.png" alt="" width="900">
+    <img src="assets/img/separator2.png" alt="" width="1000">
 </p>
 
 ## Mis Proyectos Destacados
@@ -30,7 +30,9 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 [![Power BI](assets/img/icons/power_bi.png)](https://project.novypro.com/OhEhpc "Visualiza el tablero en Novypro")
 [![Imagenes](assets/img/icons/images.png)](https://drive.google.com/drive/folders/1qbubBjVsBsnivm2bAqC-CJZGejwTpZ8u?usp=drive_link "Visualiza imágenes del Modelo Dimensional, Arqutectura y Tablero de Informes")
 
-<img src="assets/img/separator.png" alt="" style="max-width: 100%; height: auto;">
+<p align="center">
+    <img src="assets/img/separator2.png" alt="" width="1000">
+</p>
 
 ### [AD-CD] [Análisis exploratorio y contrucción de un modelo predictivo de deserción del talento humano, para una empresa de desarrollo de tecnología automotriz](https://github.com/saob007/Modelado_retencion_personal_proyecto)
 - **Resumen:** Desarrollo de modelos predictivos mediante regresión logística, bosque aleatorio (Random Forest) y árboles de decisión potenciados por gradientes (XGBoost) para predecir desvinculación de empleados en una empresa del sector industrial. El objetivo es identificar el modelo con mejor rendimiento, proporcionando a los stakeholders una herramienta para predecir riesgos de deserción y optimizar la retención del talento humano.
@@ -47,7 +49,9 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 [![Resumen Ejecutivo](assets/img/icons/resumen.png)](https://drive.google.com/file/d/14gjjlcuHwZKhZKSsiMhb16HnbqYIt6ii/view?usp=drive_link "Visualiza el resumen ejecutivo del proyecto de modelado")
 [![Kaggle](assets/img/icons/ipynb2.png)](https://www.kaggle.com/code/saidalioviedobeltran/modelo-predictivo-retencion-proyecto "Visita el cuaderno de python del proyecto")
 
-<img src="assets/img/separator.png" alt="" style="max-width: 100%; height: auto;">
+<p align="center">
+    <img src="assets/img/separator2.png" alt="" width="1000">
+</p>
 
 ### [BI] [Informe Visual y Tablero de Análisis de Subsidios, Consumo y Facturación del Servicio de Agua en Sincelejo (2020)](https://github.com/saob007/Tablero_subsidios_servicio_agua)
 - **Resumen:** Diseño de un tablero de informe estático en Looker Studio para el análisis de la distribución y asignación de subsidios otorgados por la Secretaría de Planeación de la Alcaldía de Sincelejo en el año 2020 en relación con el servicio de agua potable y alcantarillado. Se busca identificar patrones en la cobertura, consumo, facturación y subsidios, proporcionando información clave para la toma de decisiones en políticas internas de subsidios.
@@ -64,7 +68,9 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 [![Resumen Ejecutivo](assets/img/icons/resumen.png)](https://drive.google.com/file/d/12HZY8SrlE5HSe9Z_D8ljwpEIXc_W3x4G/view?usp=sharing "Visualiza el resumen ejecutivo del proyecto BI")
 [![Dashboard on Looker Studio](assets/img/icons/looker_studio.png)](https://lookerstudio.google.com/s/k3qeuXaVn2o "Visualiza el tablero en Looker Studio")
 
-<img src="assets/img/separator.png" alt="" style="max-width: 100%; height: auto;">
+<p align="center">
+    <img src="assets/img/separator2.png" alt="" width="1000">
+</p>
 
 ### [BI] [Diseño de un tablero interáctivo para el monitoreo de la calidad del proceso de atención ejecutado por la Personería de Manizales](https://github.com/saob007/Tablero_monitoreo_calidad_atenciones)
 - **Resumen:** Diseño e implementación de un tablero de control interactivo en Power BI Service para el seguimiento y análisis de métricas del proceso de atención al usuario en la Personería de Manizales. Este tablero servirá como una herramienta clave para monitorear la calidad del servicio, facilitando la extracción visual de insights, apoyando la toma de decisiones estratégicas.
@@ -81,7 +87,9 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 [![Resumen Ejecutivo](assets/img/icons/resumen.png)](https://drive.google.com/file/d/1rERvBfoocET4kmWstNeQRmTti62XhVhD/view?usp=sharing "Visualiza el resumen ejecutivo del proyecto BI")
 [![Power BI](assets/img/icons/power_bi.png)](https://project.novypro.com/LnC4eD "Visualiza el tablero en Novypro")
 
-<img src="assets/img/separator.png" alt="" style="max-width: 100%; height: auto;">
+<p align="center">
+    <img src="assets/img/separator2.png" alt="" width="1000">
+</p>
 
 ### [AD-CD] [Estudio exploratorio e impacto de las características operativas en la rentabilidad mensual de fondos de inversión colectiva en 2024](https://github.com/saob007/Modelado_rentabilidad_fic_proyecto)
 - **Resumen:** Análisis de las características operativas de los Fondos de Inversión Colectiva (FIC) en Colombia y su impacto en la rentabilidad mensual de cada fondo, usando datos de 2024 suministrados por la Superintendencia Financiera. Aunque las variables individuales no mostraron correlaciones significativas con la rentabilidad, el modelo Random Forest logró un buen desempeño ajustandose a los datos, superando a otros modelos y demostrando que sus predicciones son medianamente correctas. El análisis destacó que el valor unitario de las operaciones y el valor de cierre diario de los fondos son las variables más influyentes, mientras que el número de inversionistas y la administración de los fondos por una entidad de tipo SF-Sociedad Fiduciaria también tienen peso significativo en menor medida.
@@ -98,7 +106,9 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 [![Resumen Ejecutivo](assets/img/icons/resumen.png)](https://drive.google.com/file/d/1OpTEPoYtq_hc2NCiiLwo7Wwd6HLEhDnj/view?usp=sharing "Visualiza el resumen ejecutivo del proyecto")
 [![Kaggle](assets/img/icons/ipynb2.png)](https://www.kaggle.com/code/saidalioviedobeltran/proyecto-rentabilidad-fic "Visita el cuaderno de python del proyecto")
 
-<img src="assets/img/separator.png" alt="" style="max-width: 100%; height: auto;">
+<p align="center">
+    <img src="assets/img/separator2.png" alt="" width="1000">
+</p>
 
 ### [AD-BI] [Análisis de Datos en iGaming: Insights visuales para la toma de decisiones estratégicas según patrones de depósito en usuarios de servicios de entretenimiento y apuestas](https://github.com/saob007/Eda_dashboard_gambling_proyecto.git)
 - **Resumen:** Se realizó un análisis integral de los datos de usuarios, depósitos y costos en una empresa ecuatoriana de iGaming/iGambling, con el fin de identificar patrones de comportamiento, evaluar la divergencia entre predicciones internas y datos reales, y desarrollar un tablero BI para optimizar la interpretación y toma de decisiones. Los hallazgos obtenidos proporcionan información estratégica para mejorar las acciones de adquisición y retención de los usuarios.
@@ -117,7 +127,9 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 [![Power BI](assets/img/icons/power_bi.png)](https://project.novypro.com/YzOmrR "Visualiza el tablero de informe en Novypro")
 [![Imagenes](assets/img/icons/images.png)](https://drive.google.com/drive/folders/13cBGpvd6hwJxY4v4TGl2HGE2oT5-UIKy?usp=sharing "Visualiza imágenes del Tablero de Informe")
 
-<img src="assets/img/separator.png" alt="" style="max-width: 100%; height: auto;">
+<p align="center">
+    <img src="assets/img/separator2.png" alt="" width="1000">
+</p>
 
 ### [AD-CD] [***En proceso:*** Análisis de Datos para el Control y la Prevención del Fraude y el Lavado de Dinero en los Servicios Financieros de Amazon]
 - **Resumen:** Proceso EDA y construcción de un modelo predictivo para el reconocimiento de transacciones fraudulentas categorizadas como riesgosas por el Sistema de Autocontrol y Gestión del Riesgo Integral de Lavado de Activos, Financiación del Terrorismo y Financiamiento de la Proliferación de Armas de Destrucción Masiva (SAGRILAFT).
@@ -131,7 +143,9 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 
 **Aún no se publican los resultados (Status = inProgress)**
 
-<img src="assets/img/separator.png" alt="" style="max-width: 100%; height: auto;">
+<p align="center">
+    <img src="assets/img/separator2.png" alt="" width="1000">
+</p>
 
 ### [EM] [Formulación de un plan de negocio para la creación de una agencia especializada en la gestión y cobranza de carteras de deuda, direccionada a PYMES de la ciudad de Montería](https://github.com/saob007/Plan_negocios_empresa_cobranza)
 - **Resumen:** Plan estratégico de negocio para SOLUCIONES DE COBRANZA S.A.S. (SODECO), una empresa regional especializada en la gestión de cobranza de carteras crediticias comerciales para PYMES y que busca posicionarse como un aliado estratégico, ofreciendo soluciones que reduzcan la morosidad y mejoren la liquidez empresarial. Todo esto con base en un análisis del mercado local y proyecciones financieras realistas, garantizando estrategias alineadas con las necesidades de los clientes y los objetivos comerciales.
@@ -149,7 +163,9 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 [![Documento](assets/img/icons/excel_file.png)](https://docs.google.com/spreadsheets/d/1KiFMaMhRsP7lS4Ns-G-lJn86xOvhr3yT/edit?usp=sharing&ouid=101365071772666300093&rtpof=true&sd=true "Visualiza los estudios del proyecto")
 [![Documento](assets/img/icons/presentation_file.png)](https://drive.google.com/file/d/1zNyx6qzrviUQtpPPqjDUQUAmPORyjt9d/view?usp=sharing "Visualiza de la presentación del proyecto")
 
-<img src="assets/img/separator.png" alt="" style="max-width: 100%; height: auto;">
+<p align="center">
+    <img src="assets/img/separator2.png" alt="" width="1000">
+</p>
 
 ### [EM] [Diseño del sistema de reclutamiento y selección del personal basado en competencias para la fundación clínica del río, y su contribución en el desempeño laboral](https://repositorio.unicordoba.edu.co/handle/ucordoba/3895)
 - **Resumen:** Reconstrucción detallada del proceso de diseño de un sistema de reclutamiento y selección de personal del área asistencial y administrativa, basado en competencias para una entidad del sector salud.
@@ -166,7 +182,9 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 [![Documento](assets/img/icons/documento_pdf.png)](https://repositorio.unicordoba.edu.co/server/api/core/bitstreams/21f02e45-c2bb-4a80-83bc-bc929433816c/content "Visualiza el informe del proyecto de práctica")
 [![Documento](assets/img/icons/documento_pdf.png)](https://repositorio.unicordoba.edu.co/server/api/core/bitstreams/43ffc4ed-95d1-47f0-b4bb-c78e0269f2f5/content "Visualiza los anexos del informe")
 
-<img src="assets/img/separator.png" alt="" style="max-width: 100%; height: auto;">
+<p align="center">
+    <img src="assets/img/separator2.png" alt="" width="1000">
+</p>
 
 ## Habilidades
 - **Lenguajes de Programación:** SQL, Python, R, Visual Basic, DAX(consultas).
