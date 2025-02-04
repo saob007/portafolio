@@ -188,11 +188,11 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 
 ## Habilidades
 - **Lenguajes de Programación:** SQL, Python, R, Visual Basic, DAX(consultas).
-- **Herramientas de Visualización:** Power BI, Tableau, Excel , Matplotlib, Seaborn, Plotly.
+- **Herramientas de Visualización:** Power BI, Looker Studio ,Tableau, Excel , Matplotlib, Seaborn, Plotly.
 - **Paquetes de Python:** Pandas, Numpy, Scipy, Statsmodel, Scikit-learn, Pickle, Tensorflow.
 - **Modelos de "Machine Learning":** Regression (linear,logistic), Naive-Bayes, Decision trees, Random Forest, AdaBoost, XGBoost.
 - **Otras Herramientas Estadísticas:** A/B Testing, Probability distribution, Sampling, Hypothesis testing, ANOVA, ANCOVA, MANOVA, MANCOVA.
-- **Otras Herramientas especializadas:** Microsoft Office 365, Jupyter Lab, Anaconda, SAP, Adobe Photoshop, Spider.
+- **Otras Herramientas especializadas:** Microsoft Office 365, Google Workspace,Jupyter Lab, Anaconda, SAP, Adobe Photoshop, Spider.
 
 ## Contacto
 - **Email:** [ingsaidalioviedo@gmail.com](mailto:ingsaidalioviedo@gmail.com)
