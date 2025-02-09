@@ -7,16 +7,13 @@ html {
     scroll-behavior: smooth;
 }
 
-.web-icon {
+web-icon {
     display: inline-block;
     width: 24px;
     height: 24px;
     background-image: url('https://iconos8.es/icon/LoyAjcvVKv1K/portfolio');
     background-size: cover;
 }
-
-<span class="web-icon"></span> Mi Portafolio
-
 
 body {
     font-family: 'Poppins', sans-serif;
@@ -110,6 +107,12 @@ img {
     pointer-events: none;
     user-drag: none;
     -webkit-user-drag: none;
+}
+
+.espacio {
+    margin-top: 20px;  /* Espacio hacia arriba */
+    margin-bottom: 20px; /* Espacio hacia abajo */
+    display: block;
 }
 
 /* CONTENEDOR CON GLASSMORPHISM */
