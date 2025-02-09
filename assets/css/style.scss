@@ -112,12 +112,6 @@ a:hover::after {
     transform-origin: left;
 }
 
-img {
-    pointer-events: none;
-    user-drag: none;
-    -webkit-user-drag: none;
-}
-
 /* CONTENEDOR CON GLASSMORPHISM */
 .container {
     max-width: 900px;
