@@ -4,4 +4,4 @@ description: Ingeniero Industrial | Analista de datos | Técnico Microfinanciero
 
 show_downloads: false  # Asegúrate de que este atributo se use en el tema que eliges
 # Personalización de diseño
-theme: jekyll-theme-time-minimal
+theme: jekyll-theme-minimal
