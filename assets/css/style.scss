@@ -224,12 +224,6 @@ img {
     }
 }
 
-@keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.1); }
-    100% { transform: scale(1); }
-}
-
 @keyframes backgroundMove {
     from {
         background-position: 0% 50%;
