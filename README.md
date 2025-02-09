@@ -188,15 +188,16 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 
 ## 📚 Habilidades  
 
-#### 🖥️ Lenguajes de Programación  
+### 🖥️ Lenguajes de Programación  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=postgresql&logoColor=white) &nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) &nbsp;
 ![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white) &nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black&logoWidth=15) &nbsp;
 ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-5C2D91?style=plastic&logo=dotnet&logoColor=white) &nbsp;
 ![DAX](https://img.shields.io/badge/DAX-9A0000?style=plastic&logo=powerbi&logoColor=white)  
 
-#### 📈 Herramientas de Visualización  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=black) &nbsp;
+### 📈 Herramientas de Visualización  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=power-bi&logoColor=black&logoWidth=15) &nbsp;
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=plastic&logo=looker&logoColor=white) &nbsp;
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=tableau&logoColor=white) &nbsp;
 ![Excel](https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white) &nbsp;
@@ -204,7 +205,7 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 ![Seaborn](https://img.shields.io/badge/Seaborn-0077B6?style=plastic&logo=python&logoColor=white) &nbsp;
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=plastic&logo=plotly&logoColor=white)  
 
-#### 🐍 Paquetes de Python  
+### 🐍 Paquetes de Python  
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=selenium&logoColor=white) &nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white) &nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white) &nbsp;
@@ -215,7 +216,7 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 ![Pickle](https://img.shields.io/badge/Pickle-005A9C?style=plastic&logoColor=white) &nbsp;
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)  
 
-#### ⚙️ Otras Herramientas Especializadas  
+### ⚙️ Otras Herramientas Especializadas  
 ![Microsoft Office 365](https://img.shields.io/badge/Microsoft%20Office%20365-D83B01?style=plastic&logo=microsoftoffice&logoColor=white) &nbsp;
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=plastic&logo=googleworkspace&logoColor=white) &nbsp;
 ![Jupyter Lab](https://img.shields.io/badge/Jupyter%20Lab-F37626?style=plastic&logo=jupyter&logoColor=white) &nbsp;
@@ -226,10 +227,10 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 
 
 ## 📫 Contacto  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-9A0000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573228622777)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-9A0000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saidalioviedo/)
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-9A0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saob007)
-[![Email](https://img.shields.io/badge/Correo%20Electr%C3%B3nico-Mail-9A0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ingsaidalioviedo@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-9A0000?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/573228622777)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-9A0000?style=flat&logo=linkedin)](https://www.linkedin.com/in/saidalioviedo/)
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-9A0000?style=flat&logo=github&logoColor=white)](https://github.com/saob007)
+[![Email](https://img.shields.io/badge/Correo%20Electr%C3%B3nico-Mail-9A0000?style=flat&logo=gmail&logoColor=white)](mailto:ingsaidalioviedo@gmail.com)
 
 
 ---
