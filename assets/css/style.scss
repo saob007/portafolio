@@ -48,7 +48,7 @@ h2 {
 
 /* Efecto hover elegante */
 h2:hover {
-    transform: translateY(-2px);
+    transform: scale(1.05);
     background: linear-gradient(to right, rgba(154, 0, 0, 0.2), rgba(154, 0, 0, 0.1));
     box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.15);
     animation: heartbeat 0.6s ease-in-out;
