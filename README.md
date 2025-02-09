@@ -5,7 +5,7 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
     <img src="https://img.shields.io/badge/GitHub-9A0000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo">
 </a>
 
-## 🚀 Áreas de Especialización##
+## 🚀 Áreas de Especialización
 
 ![AD](https://img.shields.io/badge/AD-Análisis%20de%20Datos-9A0000?style=flat-square) &nbsp;
 ![CD](https://img.shields.io/badge/CD-Ciencia%20de%20Datos-9A0000?style=flat-square) &nbsp;
