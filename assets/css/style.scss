@@ -7,6 +7,14 @@ html {
     scroll-behavior: smooth;
 }
 
+.web-icon {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url('https://example.com/web-icon.png');
+    background-size: cover;
+}
+
 body {
     font-family: 'Poppins', sans-serif;
     text-align: justify;
