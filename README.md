@@ -24,7 +24,7 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 ## 📋 Mis Proyectos Destacados
 ### [AD-BI] [Datos para la inclusión: Análisis de las dinámicas crediticias de FINAGRO (2021-2024) en la inclusión financiera, diversificación agropecuaria y equidad de género en zonas rurales y de posconflicto en Colombia](https://github.com/saob007/Data-Analysis---Agrocr-ditos-FINAGRO-2023)
 - **Resumen:** Análisis exploratorio de datos y visualización de insights y KPIs basado en el historial de operaciones crediticias del Fondo para el Financiamiento del Sector Agropecuario (FINAGRO) entre enero de 2021 y septiembre de 2024. El estudio se centra en evaluar el impacto de los créditos colocados en tres dimensiones clave: inclusión financiera, diversificación agropecuaria y equidad de género.
-- **Áreas de trabajo:** Análisis exploratorio de datos (EDA) , modelado dimensional, creación de tablero interactivo, contrucción de KPIs e inteligencia de negocios.
+- **Áreas de trabajo específicas:** Análisis exploratorio de datos (EDA) , modelado dimensional, creación de tablero interactivo, contrucción de KPIs e inteligencia de negocios.
 - **Herramientas:** Jupyter Notebook, Python, R, Power BI, Pandas, Numpy, Matplotlib, Seaborn, DAX.
 - **Resultados:** Identificación y medición de la cobertura de créditos en tres dimensiones de estudio.
 
@@ -46,7 +46,7 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 
 ### [AD-CD] [Análisis exploratorio y contrucción de un modelo predictivo de deserción del talento humano, para una empresa de desarrollo de tecnología automotriz](https://github.com/saob007/Modelado_retencion_personal_proyecto)
 - **Resumen:** Desarrollo de modelos predictivos mediante regresión logística, bosque aleatorio (Random Forest) y árboles de decisión potenciados por gradientes (XGBoost) para predecir desvinculación de empleados en una empresa del sector industrial. El objetivo es identificar el modelo con mejor rendimiento, proporcionando a los stakeholders una herramienta para predecir riesgos de deserción y optimizar la retención del talento humano.
-- **Áreas de trabajo:** Análisis exploratorio de datos (EDA), análisis estadístico, modelación analítica para problemas de clasificación e inteligencia de negocios.
+- **Áreas de trabajo específicas:** Análisis exploratorio de datos (EDA), análisis estadístico, modelación analítica para problemas de clasificación e inteligencia de negocios.
 - **Herramientas:** Logistic Regression, Random Forest Algorithm, XGBoost Algorithm, scikit-learn , Anaconda, JupyterLab, Python, Pyplot, seaborn, statsmodel.
 - **Resultados:** Modelo predictivo de deserción del talento humano, Análisis estadístico de los factores causales de retención del talento humano.
 
@@ -65,7 +65,7 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 
 ### [BI] [Informe Visual y Tablero de Análisis de Subsidios, Consumo y Facturación del Servicio de Agua en la ciudad de Sincelejo (2020)](https://github.com/saob007/Tablero_subsidios_servicio_agua)
 - **Resumen:** Diseño de un tablero de informe estático en Looker Studio para el análisis de la distribución y asignación de subsidios otorgados por la Secretaría de Planeación de la Alcaldía de Sincelejo en el año 2020 en relación con el servicio de agua potable y alcantarillado. Se busca identificar patrones en la cobertura, consumo, facturación y subsidios, proporcionando información clave para la toma de decisiones en políticas internas de subsidios.
-- **Áreas de trabajo:** Creación de informes estáticos para el análisis de datos.
+- **Áreas de trabajo específicas:** Creación de informes estáticos para el análisis de datos.
 - **Herramientas:** Looker Studio, Google Workspace, LookML, Microsoft Power Point, Microsoft Excel, .
 - **Resultados:** Tablero de informe estático para el análisis de cobertura, mediciones y subsidios del servicio de acueducto y alcantarillado.
 
@@ -84,7 +84,7 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 
 ### [BI] [Diseño de un tablero interáctivo para el monitoreo de la calidad del proceso de atención ejecutado por la Personería de Manizales](https://github.com/saob007/Tablero_monitoreo_calidad_atenciones)
 - **Resumen:** Diseño e implementación de un tablero de control interactivo en Power BI Service para el seguimiento y análisis de métricas del proceso de atención al usuario en la Personería de Manizales. Este tablero servirá como una herramienta clave para monitorear la calidad del servicio, facilitando la extracción visual de insights, apoyando la toma de decisiones estratégicas.
-- **Áreas de trabajo:** Creación de productos dinámicos para la visualización de datos (tablero interáctivo).
+- **Áreas de trabajo específicas:** Creación de productos dinámicos para la visualización de datos (tablero interáctivo).
 - **Herramientas:** Power BI, Power Point, SODA Frameworks Project, AZURE DB.
 - **Resultados:** Tablero interactivo único para el seguimiento de indicadores y mediciones del área de atención al cliente.
 
@@ -103,7 +103,7 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 
 ### [AD-CD] [Estudio exploratorio e impacto de las características operativas en la rentabilidad mensual de fondos de inversión colectiva en 2024](https://github.com/saob007/Modelado_rentabilidad_fic_proyecto)
 - **Resumen:** Análisis de las características operativas de los Fondos de Inversión Colectiva (FIC) en Colombia y su impacto en la rentabilidad mensual de cada fondo, usando datos de 2024 suministrados por la Superintendencia Financiera. Aunque las variables individuales no mostraron correlaciones significativas con la rentabilidad, el modelo Random Forest logró un buen desempeño ajustandose a los datos, superando a otros modelos y demostrando que sus predicciones son medianamente correctas. El análisis destacó que el valor unitario de las operaciones y el valor de cierre diario de los fondos son las variables más influyentes, mientras que el número de inversionistas y la administración de los fondos por una entidad de tipo SF-Sociedad Fiduciaria también tienen peso significativo en menor medida.
-- **Áreas de trabajo:** Análisis exploratorio de datos (EDA), análisis estadístico, modelación analítica para problemas de regresión.
+- **Áreas de trabajo específicas:** Análisis exploratorio de datos (EDA), análisis estadístico, modelación analítica para problemas de regresión.
 - **Herramientas:** Lineal Regression, Random Forest Regressor, XGBoost Regressor, Lasso Regression, MLP Regressor, scikit-learn , Anaconda, JupyterLab, Python, Pyplot, seaborn, FireDucks, Numpy, Pickle.
 - **Resultados:** Análisis de la distribución y evolución de la rentabilidad de los fondos de inversión colectiva en el periodo 2024, Modelo analítico predictivo de la rentabilidad mensual, Identificación de los factores significativamente incidentes en la rentabilidad.
 
@@ -122,7 +122,7 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 
 ### [AD-BI] [Análisis de Datos en iGaming: Insights visuales para la toma de decisiones estratégicas según patrones de depósito en usuarios de servicios de entretenimiento y apuestas](https://github.com/saob007/Eda_dashboard_gambling_proyecto.git)
 - **Resumen:** Se realizó un análisis integral de los datos de usuarios, depósitos y costos en una empresa ecuatoriana de iGaming/iGambling, con el fin de identificar patrones de comportamiento, evaluar la divergencia entre predicciones internas y datos reales, y desarrollar un tablero BI para optimizar la interpretación y toma de decisiones. Los hallazgos obtenidos proporcionan información estratégica para mejorar las acciones de adquisición y retención de los usuarios.
-- **Áreas de trabajo:** Análisis de datos , Modelado dimensional y Visualización de datos para BI.
+- **Áreas de trabajo específicas:** Análisis de datos , Modelado dimensional y Visualización de datos para BI.
 - **Herramientas:** SQLite, Jupyter Notebook, Power BI, Photoshop 2024, Python, Pandas, Numpy, Matplotlib, Seaborn, DAX.
 - **Resultados:** Análisis del comportamiento de los depósitos y costos en servicios gambling, Perfilación de usuarios de servicios gambling, Tablero de informe para el seguimiento de las principales variables y métricas asociadas a la los juegos de apuesta.
 
@@ -159,7 +159,7 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 
 ### [EM] [Formulación de un plan de negocio para la creación de una agencia especializada en la gestión y cobranza de carteras de deuda, direccionada a PYMES de la ciudad de Montería](https://github.com/saob007/Plan_negocios_empresa_cobranza)
 - **Resumen:** Plan estratégico de negocio para SOLUCIONES DE COBRANZA S.A.S. (SODECO), una empresa regional especializada en la gestión de cobranza de carteras crediticias comerciales para PYMES y que busca posicionarse como un aliado estratégico, ofreciendo soluciones que reduzcan la morosidad y mejoren la liquidez empresarial. Todo esto con base en un análisis del mercado local y proyecciones financieras realistas, garantizando estrategias alineadas con las necesidades de los clientes y los objetivos comerciales.
-- **Áreas de trabajo:** Credito y cobranza, administración de la liquidez, gestión de proyectos, estudios de operabilidad.
+- **Áreas de trabajo específicas:** Credito y cobranza, administración de la liquidez, gestión de proyectos, estudios de operabilidad.
 - **Herramientas:** Microsoft Excel, Microsoft Word, Gantter para la gestión de proyectos, Google Workspace, Microsoft Forms.
 - **Resultados:** Plan integral estratégico para la puesta en marcha de una unidad productiva de negocio .
 
@@ -179,7 +179,7 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 
 ### [EM] [Diseño del sistema de reclutamiento y selección del personal basado en competencias para la fundación clínica del río, y su contribución en el desempeño laboral](https://repositorio.unicordoba.edu.co/handle/ucordoba/3895)
 - **Resumen:** Reconstrucción detallada del proceso de diseño de un sistema de reclutamiento y selección de personal del área asistencial y administrativa, basado en competencias para una entidad del sector salud.
-- **Áreas de trabajo:** Ingeniería de procesos, levantamiento documental y planeación del trabajo.
+- **Áreas de trabajo específicas:** Ingeniería de procesos, levantamiento documental y planeación del trabajo.
 - **Herramientas:** Microsoft Excel, Microsoft Word, Dynamica SAP, Canvas.
 - **Resultados:** Formatos y manuales de métodos & procedimientos .
 
