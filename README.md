@@ -14,6 +14,7 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-9A0000?style=flat&logo=linkedin)](https://www.linkedin.com/in/saidalioviedo/)
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-9A0000?style=flat&logo=github&logoColor=white)](https://github.com/saob007)
 
+<span class="espacio"></span>
 
 ## 🚀 Áreas de trabajo
 ![AD](https://img.shields.io/badge/AD-Análisis%20de%20Datos-878787?style=flat-square) &nbsp;
