@@ -205,5 +205,7 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 [![Email](https://img.shields.io/badge/Correo%20Electr%C3%B3nico-Mail-9A0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ingsaidalioviedo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-9A0000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saidalioviedo/)
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-9A0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saob007)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-9A0000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573228622777)
+
 
 ---
