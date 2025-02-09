@@ -1,15 +1,12 @@
 # ¡HOLA! BIENVENIDO A MI PORTAFOLIO
 Aquí encontrarás una selección de algunos de mis proyectos analíticos y de ingeniería más destacados.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/user/repo?color=9A0000&label=Repo%20Size&style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/user/repo?color=gold&style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/user/repo?color=blue&style=flat-square)
+![AD](https://img.shields.io/github/repo-size/user/repo?color=9A0000&label=Repo%20Size&style=flat-square)
+![CD](https://img.shields.io/github/stars/user/repo?color=gold&style=flat-square)
+![BI](https://img.shields.io/github/last-commit/user/repo?color=blue&style=flat-square)
 <a href="https://github.com/user/repo" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-9A0000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo">
 </a>
-![Banner](https://raw.githubusercontent.com/user/repo/main/assets/banner.png)
-![Demo](https://raw.githubusercontent.com/user/repo/main/assets/demo.gif)
-
 
 ## 📈 Áreas
 **AD: Análisis de datos | CD: Ciencia de datos | BI: Inteligencia de negocios | EM: Empresa**
@@ -201,11 +198,10 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 - **Otras Herramientas especializadas:** Microsoft Office 365, Google Workspace,Jupyter Lab, Anaconda, SAP, Adobe Photoshop, Spider.
 
 ## 📫 Contacto  
-
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-9A0000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573228622777)
-[![Email](https://img.shields.io/badge/Correo%20Electr%C3%B3nico-Mail-9A0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ingsaidalioviedo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-9A0000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saidalioviedo/)
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-9A0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saob007)
+[![Email](https://img.shields.io/badge/Correo%20Electr%C3%B3nico-Mail-9A0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ingsaidalioviedo@gmail.com)
 
 
 ---
