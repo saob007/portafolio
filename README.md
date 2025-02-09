@@ -191,13 +191,44 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
     <img src="assets/img/separator2.png" alt="" width="100%">
 </p>
 
-## 📚 Habilidades
-- **Lenguajes de Programación:** SQL, Python, R, Visual Basic, DAX(consultas).
-- **Herramientas de Visualización:** Power BI, Looker Studio, Tableau, Excel , Matplotlib, Seaborn, Plotly.
-- **Paquetes de Python:** Selenium, Django, Pandas, Numpy, Scipy, Statsmodel, Scikit-learn, Pickle, Tensorflow.
-- **Modelos de "Machine Learning":** Regression (linear,logistic), Naive-Bayes, Decision trees, Random Forest, AdaBoost, XGBoost.
-- **Otras Herramientas Estadísticas:** A/B Testing, Probability distribution, Sampling, Hypothesis testing, ANOVA, ANCOVA, MANOVA, MANCOVA.
-- **Otras Herramientas especializadas:** Microsoft Office 365, Google Workspace,Jupyter Lab, Anaconda, SAP, Adobe Photoshop, Spider.
+## 📚 Habilidades  
+
+#### 🖥️ Lenguajes de Programación  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) &nbsp;
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) &nbsp;
+![Visual Basic](https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white) &nbsp;
+![DAX](https://img.shields.io/badge/DAX-9A0000?style=for-the-badge&logo=powerbi&logoColor=white)  
+
+#### 📈 Herramientas de Visualización  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) &nbsp;
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white) &nbsp;
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) &nbsp;
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) &nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) &nbsp;
+![Seaborn](https://img.shields.io/badge/Seaborn-0077B6?style=for-the-badge&logo=python&logoColor=white) &nbsp;
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)  
+
+#### 🐍 Paquetes de Python  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) &nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) &nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) &nbsp;
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) &nbsp;
+![Scipy](https://img.shields.io/badge/Scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) &nbsp;
+![Statsmodels](https://img.shields.io/badge/Statsmodels-DA291C?style=for-the-badge&logo=python&logoColor=white) &nbsp;
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=black) &nbsp;
+![Pickle](https://img.shields.io/badge/Pickle-005A9C?style=for-the-badge&logo=python&logoColor=white) &nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+
+#### ⚙️ Otras Herramientas Especializadas  
+![Microsoft Office 365](https://img.shields.io/badge/Microsoft%20Office%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white) &nbsp;
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white) &nbsp;
+![Jupyter Lab](https://img.shields.io/badge/Jupyter%20Lab-F37626?style=for-the-badge&logo=jupyter&logoColor=white) &nbsp;
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white) &nbsp;
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white) &nbsp;
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=white) &nbsp;
+![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyderide&logoColor=white)  
+
 
 ## 📫 Contacto  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-9A0000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573228622777)
