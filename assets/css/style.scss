@@ -6,88 +6,38 @@
 body {
     font-family: 'Poppins', sans-serif;
     text-align: justify;
-    line-height: 1.7; /* Espaciado entre líneas mejorado */
-    color: #34495e; /* Color de texto principal */
-    background: #f8f9fa; /* Fondo claro */
-    padding: 20px;
-    max-width: 100%;
-    overflow-x: hidden; /* Evita scroll horizontal */
-}
-
-/* Títulos */
-h1 {
-    color: #2c3e50;
-    font-size: 2em;
-    text-transform: uppercase;
-    text-align: center;
-    border-bottom: 3px solid #2980b9;
-    padding-bottom: 6px;
-    letter-spacing: 1px;
-    font-weight: 700;
-    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1); /* Sombra sutil */
-    background: linear-gradient(to right, #2980b9, #6dd5fa);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent; /* Efecto de degradado */
-}
-
-h2 {
-    font-size: 1.5em;
-    border-left: 4px solid #2980b9;
-    padding-left: 10px;
-    background: rgba(41, 128, 185, 0.1); /* Fondo sutil para destacar */
-    display: inline-block;
-    padding: 5px 15px;
-    border-radius: 5px;
-}
-
-h3 {
-    font-size: 1.2em;
-    font-weight: 600;
-}
-
-/* Enlaces */@import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
-
-body {
-    font-family: 'Poppins', sans-serif;
-    text-align: justify;
     line-height: 1.7;
-    color: #34495e;
-    background: #f8f9fa;
+    color: #2c2c2c;
+    background: linear-gradient(to right, #f3f3f3, #e7e7e7); /* Fondo con degradado suave */
     padding: 20px;
     max-width: 100%;
     overflow-x: hidden;
-}
-
-/* Animación al cargar la página */
-body {
     animation: fadeIn 1s ease-in-out;
 }
 
-/* Títulos */
+/* TITULOS */
 h1 {
-    color: #2c3e50;
-    font-size: 2em;
+    font-size: 2.3em;
     text-transform: uppercase;
     text-align: center;
-    border-bottom: 3px solid #2980b9;
+    border-bottom: 3px solid #9A0000; /* Línea en rojo oscuro */
     padding-bottom: 6px;
     letter-spacing: 1px;
     font-weight: 700;
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
-    background: linear-gradient(to right, #2980b9, #6dd5fa);
+    background: linear-gradient(to right, #9A0000, #D32F2F); /* Degradado en el texto */
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     animation: slideUp 1s ease-in-out;
 }
 
 h2 {
-    font-size: 1.5em;
-    border-left: 4px solid #2980b9;
-    padding-left: 10px;
-    background: rgba(41, 128, 185, 0.1);
+    font-size: 1.6em;
+    border-left: 5px solid #9A0000;
+    padding-left: 15px;
+    background: rgba(154, 0, 0, 0.1);
     display: inline-block;
-    padding: 5px 15px;
+    padding: 8px 15px;
     border-radius: 5px;
     transition: transform 0.3s ease-in-out;
 }
@@ -98,95 +48,84 @@ h2:hover {
 }
 
 h3 {
-    font-size: 1.2em;
+    font-size: 1.3em;
     font-weight: 600;
 }
 
-/* Enlaces */
+/* ENLACES */
 a {
-    color: #2980b9;
+    color: #9A0000;
     text-decoration: none;
     font-weight: bold;
     border-bottom: 2px solid transparent;
     transition: all 0.3s ease-in-out;
+    position: relative;
 }
 
 a:hover {
-    text-decoration: none;
-    color: #1a5276;
-    border-bottom: 2px solid #1a5276;
-    opacity: 0.8;
+    color: #730000;
+    border-bottom: 2px solid #730000;
+    opacity: 0.9;
     transform: scale(1.05);
-    box-shadow: 0px 0px 10px rgba(41, 128, 185, 0.5);
+    text-shadow: 0px 0px 10px rgba(154, 0, 0, 0.3); /* Brillo sutil */
 }
 
-/* Párrafos */
-p {
-    margin-bottom: 18px;
-}
-
-/* Contenedor con animación */
+/* CONTENEDOR */
 .container {
     max-width: 900px;
     margin: auto;
     background: white;
-    padding: 25px;
+    padding: 30px; /* Más espacio para que se vea elegante */
     border-radius: 12px;
-    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.1);
-    transition: all 0.3s ease-in-out;
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.12);
+    transition: all 0.4s ease-in-out;
     animation: zoomIn 0.8s ease-in-out;
 }
 
 .container:hover {
-    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.15);
+    box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.2);
 }
 
-/* ----- 🎬 Animaciones ----- */
+/* BOTONES ESTILIZADOS */
+.button {
+    display: inline-block;
+    background: #9A0000;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 8px;
+    font-size: 1em;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0px 4px 10px rgba(154, 0, 0, 0.3);
+    border: none;
+    cursor: pointer;
+}
 
-/* Fade in al cargar la página */
+.button:hover {
+    background: #730000;
+    transform: scale(1.05);
+    box-shadow: 0px 6px 15px rgba(154, 0, 0, 0.5);
+}
+
+/* ANIMACIONES */
 @keyframes fadeIn {
-    from {
-        opacity: 0;
-    }
-    to {
-        opacity: 1;
-    }
+    from { opacity: 0; }
+    to { opacity: 1; }
 }
 
-/* Efecto de aparición deslizante en h1 */
 @keyframes slideUp {
-    from {
-        opacity: 0;
-        transform: translateY(20px);
-    }
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
 }
 
-/* Zoom-in en el contenedor */
 @keyframes zoomIn {
-    from {
-        opacity: 0;
-        transform: scale(0.9);
-    }
-    to {
-        opacity: 1;
-        transform: scale(1);
-    }
+    from { opacity: 0; transform: scale(0.9); }
+    to { opacity: 1; transform: scale(1); }
 }
 
-/* Efecto de "latido" en h2 */
 @keyframes heartbeat {
-    0% {
-        transform: scale(1);
-    }
-    50% {
-        transform: scale(1.1);
-    }
-    100% {
-        transform: scale(1);
-    }
+    0% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+    100% { transform: scale(1); }
 }
-
