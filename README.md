@@ -1,5 +1,14 @@
 # ¡HOLA! BIENVENIDO A MI PORTAFOLIO
-Aquí encontrarás una selección de algunos de mis proyectos analíticos y de ingeniería más destacados.
+
+Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Finanzas Corporativas y los Sistemas Informáticos. Cuento con experiencia desarrollando proyectos de análisis y visualización de datos, modelado dimensional, modelado analítico, ingeniería de de datos y construcción de KPIs. Mi objetivo es convertir datos crudos en información valiosa para la toma de decisiones estratégica siguiendo metodologías de trabajo como KANBAN, CRISP-DM y SCRUM.
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-9A0000?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/573228622777)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-9A0000?style=flat&logo=linkedin)](https://www.linkedin.com/in/saidalioviedo/)
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-9A0000?style=flat&logo=github&logoColor=white)](https://github.com/saob007)
+[![Email](https://img.shields.io/badge/Correo%20Electr%C3%B3nico-Mail-9A0000?style=flat&logo=gmail&logoColor=white)](mailto:ingsaidalioviedo@gmail.com)
+
+Aquí encontrarás una selección de algunos de mis proyectos analíticos y de ingeniería más destacados. Te invito a revisarlos y contactarme en caso de querer saber un poco más sobre ellos. 😉
+
 
 
 ## 🚀 Áreas de Especialización
@@ -10,12 +19,6 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 
 
 ## 🤔 Sobre mí
-Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Finanzas Corporativas y los Sistemas Informáticos. Cuento con experiencia desarrollando proyectos de análisis y visualización de datos, modelado dimensional, modelado analítico, ingeniería de de datos y construcción de KPIs. Mi objetivo es convertir datos crudos en información valiosa para la toma de decisiones estratégica siguiendo metodologías de trabajo como KANBAN, CRISP-DM y SCRUM.
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-9A0000?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/573228622777)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-9A0000?style=flat&logo=linkedin)](https://www.linkedin.com/in/saidalioviedo/)
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-9A0000?style=flat&logo=github&logoColor=white)](https://github.com/saob007)
-[![Email](https://img.shields.io/badge/Correo%20Electr%C3%B3nico-Mail-9A0000?style=flat&logo=gmail&logoColor=white)](mailto:ingsaidalioviedo@gmail.com)
 
 
 ## 📋 Mis Proyectos Destacados
