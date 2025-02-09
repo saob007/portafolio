@@ -1,15 +1,14 @@
 # ¡HOLA! BIENVENIDO A MI PORTAFOLIO
 Aquí encontrarás una selección de algunos de mis proyectos analíticos y de ingeniería más destacados.
 
-![AD](https://img.shields.io/github/repo-size/user/repo?color=9A0000&label=Repo%20Size&style=flat-square)
-![CD](https://img.shields.io/github/stars/user/repo?color=gold&style=flat-square)
-![BI](https://img.shields.io/github/last-commit/user/repo?color=blue&style=flat-square)
 <a href="https://github.com/user/repo" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-9A0000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo">
 </a>
 
+####
+
 ## 📈 Áreas
-**AD: Análisis de datos | CD: Ciencia de datos | BI: Inteligencia de negocios | EM: Empresa**
+**AD:** Análisis de datos | **CD:** Ciencia de datos | **BI:** Inteligencia de negocios | **EM:** Empresa
 
 ## 🤔 Sobre mí
 Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Finanzas Corporativas y los Sistemas Informáticos. Cuento con experiencia desarrollando proyectos de análisis y visualización de datos, modelado dimensional, modelado analítico, ingeniería de de datos y construcción de KPIs. Mi objetivo es convertir datos crudos en información valiosa para la toma de decisiones estratégica siguiendo metodologías de trabajo como KANBAN, CRISP-DM y SCRUM.
