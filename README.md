@@ -2,7 +2,7 @@
 Aquí encontrarás una selección de algunos de mis proyectos analíticos y de ingeniería más destacados.
 
 ## Áreas
-**AD: Análisis de datos | CD: Ciencia de datos | EM: Empresa | BI: Inteligencia de negocios**
+**AD: Análisis de datos | CD: Ciencia de datos | BI: Inteligencia de negocios | EM: Empresa**
 
 ## Sobre mí
 Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Finanzas Corporativas y los Sistemas Informáticos. Cuento con experiencia desarrollando proyectos de análisis y visualización de datos, modelado dimensional, modelado analítico, ingeniería de de datos y construcción de KPIs. Mi objetivo es convertir datos crudos en información valiosa para la toma de decisiones estratégica siguiendo metodologías de trabajo como KANBAN, CRISP-DM y SCRUM.
