@@ -11,11 +11,11 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 
 
 
-## 🚀 Áreas de Especialización
-![AD](https://img.shields.io/badge/AD-Análisis%20de%20Datos-6C6C6C?style=flat-square) &nbsp;
-![CD](https://img.shields.io/badge/CD-Ciencia%20de%20Datos-6C6C6C?style=flat-square) &nbsp;
-![BI](https://img.shields.io/badge/BI-Inteligencia%20de%20Negocios-6C6C6C?style=flat-square) &nbsp;
-![EM](https://img.shields.io/badge/EM-Empresa-6C6C6C?style=flat-square) 
+## 🚀 Áreas de trabajo
+![AD](https://img.shields.io/badge/AD-Análisis%20de%20Datos-878787?style=flat-square) &nbsp;
+![CD](https://img.shields.io/badge/CD-Ciencia%20de%20Datos-878787?style=flat-square) &nbsp;
+![BI](https://img.shields.io/badge/BI-Inteligencia%20de%20Negocios-878787?style=flat-square) &nbsp;
+![EM](https://img.shields.io/badge/EM-Empresa-878787?style=flat-square) 
 
 
 ## 🤔 Sobre mí
