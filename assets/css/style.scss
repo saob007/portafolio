@@ -56,7 +56,11 @@ h2:hover {
 
 h3 {
     font-size: 1.2em;
+    background: linear-gradient(to right, #9A0000, #D32F2F);
     font-weight: 600;
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: fadeIn 1.2s ease-in-out;
 }
 
 /* ENLACES CON EFECTO ELEGANTE */
