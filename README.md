@@ -3,13 +3,20 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 
 ## 🚀 Áreas de Especialización
 
-![AD](https://img.shields.io/badge/AD-Análisis%20de%20Datos-9A0000?style=plastic) &nbsp;
-![CD](https://img.shields.io/badge/CD-Ciencia%20de%20Datos-9A0000?style=plastic) &nbsp;
-![BI](https://img.shields.io/badge/BI-Inteligencia%20de%20Negocios-9A0000?style=plastic) &nbsp;
-![EM](https://img.shields.io/badge/EM-Empresa-9A0000?style=plastic)
+![AD](https://img.shields.io/badge/AD-Análisis%20de%20Datos-9A0000?style=flat) &nbsp;
+![CD](https://img.shields.io/badge/CD-Ciencia%20de%20Datos-9A0000?style=flat) &nbsp;
+![BI](https://img.shields.io/badge/BI-Inteligencia%20de%20Negocios-9A0000?style=flat) &nbsp;
+![EM](https://img.shields.io/badge/EM-Empresa-9A0000?style=flat)
 
-## 🤔 Sobre mí
+## **🤔 Sobre mí**
 Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Finanzas Corporativas y los Sistemas Informáticos. Cuento con experiencia desarrollando proyectos de análisis y visualización de datos, modelado dimensional, modelado analítico, ingeniería de de datos y construcción de KPIs. Mi objetivo es convertir datos crudos en información valiosa para la toma de decisiones estratégica siguiendo metodologías de trabajo como KANBAN, CRISP-DM y SCRUM.
+
+📫 **Contáctame** &nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-9A0000?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/573228622777)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-9A0000?style=flat&logo=linkedin)](https://www.linkedin.com/in/saidalioviedo/)
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-9A0000?style=flat&logo=github&logoColor=white)](https://github.com/saob007)
+[![Email](https://img.shields.io/badge/Correo%20Electr%C3%B3nico-Mail-9A0000?style=flat&logo=gmail&logoColor=white)](mailto:ingsaidalioviedo@gmail.com)
+
 
 ## 📋 Mis Proyectos Destacados
 ### [AD-BI] [Datos para la inclusión: Análisis de las dinámicas crediticias de FINAGRO (2021-2024) en la inclusión financiera, diversificación agropecuaria y equidad de género en zonas rurales y de posconflicto en Colombia](https://github.com/saob007/Data-Analysis---Agrocr-ditos-FINAGRO-2023)
@@ -224,13 +231,5 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=plastic&logo=sap&logoColor=white) &nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=plastic&logo=adobephotoshop&logoColor=white) &nbsp;
 ![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=plastic&logo=spyderide&logoColor=white)  
-
-
-## 📫 Contacto  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-9A0000?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/573228622777)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-9A0000?style=flat&logo=linkedin)](https://www.linkedin.com/in/saidalioviedo/)
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-9A0000?style=flat&logo=github&logoColor=white)](https://github.com/saob007)
-[![Email](https://img.shields.io/badge/Correo%20Electr%C3%B3nico-Mail-9A0000?style=flat&logo=gmail&logoColor=white)](mailto:ingsaidalioviedo@gmail.com)
-
 
 ---
