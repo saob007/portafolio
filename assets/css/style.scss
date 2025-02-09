@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
 
 html {
-    scroll-behavior: smooth; /* Desplazamiento fluido */
+    scroll-behavior: smooth;
 }
 
 body {
@@ -12,11 +12,11 @@ body {
     text-align: justify;
     line-height: 1.7;
     color: #2c2c2c;
-    background: linear-gradient(to right, #f3f3f3, #e7e7e7);
+    background: linear-gradient(135deg, #f3f3f3, #e7e7e7);
     padding: 20px;
     max-width: 100%;
     overflow-x: hidden;
-    animation: fadeInBlur 1s ease-in-out;
+    animation: fadeInBlur 1s ease-in-out, backgroundMove 8s infinite alternate ease-in-out;
 }
 
 /* TITULOS */
@@ -65,7 +65,6 @@ a {
     transition: color 0.3s ease-in-out;
 }
 
-/* Subrayado animado */
 a::after {
     content: "";
     position: absolute;
@@ -84,17 +83,18 @@ a:hover {
     text-shadow: 0px 2px 8px rgba(154, 0, 0, 0.3);
 }
 
-/* Animación del subrayado */
 a:hover::after {
     transform: scaleX(1);
     transform-origin: left;
 }
 
-/* CONTENEDOR */
+/* CONTENEDOR CON GLASSMORPHISM */
 .container {
     max-width: 900px;
     margin: auto;
-    background: white;
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
     padding: 30px;
     border-radius: 12px;
     box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.12);
@@ -106,7 +106,7 @@ a:hover::after {
     box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.2);
 }
 
-/* BOTONES ESTILIZADOS */
+/* BOTONES ESTILIZADOS CON EFECTO DE ILUMINACIÓN */
 .button {
     display: inline-block;
     background: #9A0000;
@@ -124,14 +124,30 @@ a:hover::after {
     overflow: hidden;
 }
 
-/* Efecto hover elegante */
+/* Efecto de iluminación en hover */
+.button::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 300%;
+    height: 300%;
+    background: radial-gradient(circle, rgba(255,255,255,0.4) 0%, rgba(255,255,255,0) 50%);
+    transition: all 0.3s ease-in-out;
+    transform: translate(-50%, -50%) scale(0);
+}
+
+.button:hover::before {
+    transform: translate(-50%, -50%) scale(1);
+}
+
 .button:hover {
     background: #730000;
     transform: scale(1.05);
     box-shadow: 0px 6px 15px rgba(154, 0, 0, 0.5);
 }
 
-/* Animación de latido */
+/* Animación de latido al hacer clic */
 .button:active {
     animation: pulse 0.3s ease-in-out;
 }
@@ -171,4 +187,13 @@ a:hover::after {
     0% { transform: scale(1); }
     50% { transform: scale(1.1); }
     100% { transform: scale(1); }
+}
+
+@keyframes backgroundMove {
+    from {
+        background-position: 0% 50%;
+    }
+    to {
+        background-position: 100% 50%;
+    }
 }
