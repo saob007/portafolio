@@ -4,16 +4,14 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 
 
 ## 🚀 Áreas de Especialización
-![AD](https://img.shields.io/badge/AD-Análisis%20de%20Datos-9A0000?style=flat) &nbsp;
-![CD](https://img.shields.io/badge/CD-Ciencia%20de%20Datos-9A0000?style=flat) &nbsp;
-![BI](https://img.shields.io/badge/BI-Inteligencia%20de%20Negocios-9A0000?style=flat) &nbsp;
-![EM](https://img.shields.io/badge/EM-Empresa-9A0000?style=flat)
+![AD](https://img.shields.io/badge/AD-Análisis%20de%20Datos-D95C5C?style=flat-square) &nbsp;
+![CD](https://img.shields.io/badge/CD-Ciencia%20de%20Datos-5C86D9?style=flat-square) &nbsp;
+![BI](https://img.shields.io/badge/BI-Inteligencia%20de%20Negocios-D9A15C?style=flat-square) &nbsp;
+![EM](https://img.shields.io/badge/EM-Empresa-6C6C6C?style=flat-square) 
 
 
 ## **🤔 Sobre mí**
 Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Finanzas Corporativas y los Sistemas Informáticos. Cuento con experiencia desarrollando proyectos de análisis y visualización de datos, modelado dimensional, modelado analítico, ingeniería de de datos y construcción de KPIs. Mi objetivo es convertir datos crudos en información valiosa para la toma de decisiones estratégica siguiendo metodologías de trabajo como KANBAN, CRISP-DM y SCRUM.
-
-📫 **Contáctame**
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-9A0000?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/573228622777)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-9A0000?style=flat&logo=linkedin)](https://www.linkedin.com/in/saidalioviedo/)
