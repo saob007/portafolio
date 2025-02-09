@@ -1,4 +1,4 @@
-# ¡Hola! Bienvenido a mi Portafolio
+# ¡HOLA! BIENVENIDO A MI PORTAFOLIO
 Aquí encontrarás una selección de algunos de mis proyectos analíticos y de ingeniería más destacados.
 
 ## Áreas
