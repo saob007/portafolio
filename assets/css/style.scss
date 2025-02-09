@@ -3,29 +3,16 @@
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
 
-/* VARIABLES CSS PARA COLORES Y SOMBRAS */
-:root {
-    --primary-color: #9A0000;
-    --primary-dark: #730000;
-    --text-color: #2c2c2c;
-    --background-light: #f3f3f3;
-    --background-dark: #e7e7e7;
-    --shadow-light: rgba(0, 0, 0, 0.1);
-    --shadow-strong: rgba(0, 0, 0, 0.2);
-}
-
-/* SUAVIZAR EL SCROLL */
 html {
     scroll-behavior: smooth;
 }
 
-/* ESTILO GLOBAL */
 body {
     font-family: 'Poppins', sans-serif;
     text-align: justify;
     line-height: 1.7;
-    color: var(--text-color);
-    background: linear-gradient(135deg, var(--background-light), var(--background-dark));
+    color: #2c2c2c;
+    background: linear-gradient(135deg, #f3f3f3, #e7e7e7);
     padding: 20px;
     max-width: 100%;
     overflow-x: hidden;
@@ -33,18 +20,16 @@ body {
 }
 
 /* TITULOS */
-h1, h2, h3 {
-    text-transform: uppercase;
-    font-weight: 600;
-    letter-spacing: 1px;
-}
-
 h1 {
-    font-size: 2.2em;
+    font-size: 2.3em;
+    text-transform: uppercase;
     text-align: center;
-    border-bottom: 3px solid var(--primary-color);
+    border-bottom: 3px solid #9A0000;
     padding-bottom: 6px;
-    background: linear-gradient(to right, var(--primary-color), #D32F2F);
+    letter-spacing: 1px;
+    font-weight: 700;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+    background: linear-gradient(to right, #9A0000, #D32F2F);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     animation: slideUp 1s ease-in-out;
@@ -52,7 +37,7 @@ h1 {
 
 h2 {
     font-size: 1.6em;
-    border-left: 5px solid var(--primary-color);
+    border-left: 5px solid #9A0000;
     padding-left: 15px;
     background: rgba(154, 0, 0, 0.1);
     display: inline-block;
@@ -68,11 +53,12 @@ h2:hover {
 
 h3 {
     font-size: 1.3em;
+    font-weight: 600;
 }
 
-/* ENLACES ELEGANTES */
+/* ENLACES CON EFECTO ELEGANTE */
 a {
-    color: var(--primary-color);
+    color: #9A0000;
     text-decoration: none;
     font-weight: bold;
     position: relative;
@@ -86,15 +72,15 @@ a::after {
     bottom: -3px;
     width: 100%;
     height: 2px;
-    background-color: var(--primary-color);
+    background-color: #9A0000;
     transform: scaleX(0);
     transform-origin: right;
     transition: transform 0.3s ease-in-out;
 }
 
 a:hover {
-    color: var(--primary-dark);
-    text-shadow: 0px 2px 8px var(--primary-color);
+    color: #730000;
+    text-shadow: 0px 2px 8px rgba(154, 0, 0, 0.3);
 }
 
 a:hover::after {
@@ -102,7 +88,7 @@ a:hover::after {
     transform-origin: left;
 }
 
-/* CONTENEDOR CON EFECTO GLASSMORPHISM */
+/* CONTENEDOR CON GLASSMORPHISM */
 .container {
     max-width: 900px;
     margin: auto;
@@ -111,19 +97,19 @@ a:hover::after {
     border: 1px solid rgba(255, 255, 255, 0.3);
     padding: 30px;
     border-radius: 12px;
-    box-shadow: 0px 8px 20px var(--shadow-light);
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.12);
     transition: all 0.4s ease-in-out;
     animation: fadeInBlur 1s ease-in-out;
 }
 
 .container:hover {
-    box-shadow: 0px 10px 25px var(--shadow-strong);
+    box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.2);
 }
 
 /* BOTONES ESTILIZADOS CON EFECTO DE ILUMINACIÓN */
 .button {
     display: inline-block;
-    background: var(--primary-color);
+    background: #9A0000;
     color: white;
     padding: 12px 20px;
     border-radius: 8px;
@@ -131,14 +117,14 @@ a:hover::after {
     font-weight: bold;
     text-transform: uppercase;
     transition: all 0.3s ease-in-out;
-    box-shadow: 0px 4px 10px var(--primary-color);
+    box-shadow: 0px 4px 10px rgba(154, 0, 0, 0.3);
     border: none;
     cursor: pointer;
     position: relative;
     overflow: hidden;
 }
 
-/* EFECTO DE ILUMINACIÓN EN HOVER */
+/* Efecto de iluminación en hover */
 .button::before {
     content: "";
     position: absolute;
@@ -156,9 +142,14 @@ a:hover::after {
 }
 
 .button:hover {
-    background: var(--primary-dark);
+    background: #730000;
     transform: scale(1.05);
-    box-shadow: 0px 6px 15px var(--shadow-strong);
+    box-shadow: 0px 6px 15px rgba(154, 0, 0, 0.5);
+}
+
+/* Animación de latido al hacer clic */
+.button:active {
+    animation: pulse 0.3s ease-in-out;
 }
 
 /* ANIMACIONES */
@@ -187,6 +178,12 @@ a:hover::after {
 }
 
 @keyframes heartbeat {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+    100% { transform: scale(1); }
+}
+
+@keyframes pulse {
     0% { transform: scale(1); }
     50% { transform: scale(1.1); }
     100% { transform: scale(1); }
