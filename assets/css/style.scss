@@ -30,7 +30,7 @@ h1 {
     font-weight: 700;
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
     background: linear-gradient(to right, #9A0000, #D32F2F);
-    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
     animation: slideUp 1s ease-in-out;
 }
 
