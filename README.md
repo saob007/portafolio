@@ -1,5 +1,4 @@
 # ¡Hola! Bienvenido a mi Portafolio
-<span class="web-icon"></span>
 
 <p align="left">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGdnN293amZ6Z3d6OTE4NmxmOGgxdzkyMDAxamRieW5oajRxbmppOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Bx39JhLGMMikTef3Mw/giphy.gif" width="220" align="left" style="margin-right: 15px;">
