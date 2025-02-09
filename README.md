@@ -1,7 +1,7 @@
 # ¡HOLA! BIENVENIDO A MI PORTAFOLIO
 Aquí encontrarás una selección de algunos de mis proyectos analíticos y de ingeniería más destacados.
-<br>
-
+---
+---
 
 ## 🚀 Áreas de Especialización
 ![AD](https://img.shields.io/badge/AD-Análisis%20de%20Datos-D95C5C?style=flat-square) &nbsp;
