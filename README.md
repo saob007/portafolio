@@ -22,7 +22,7 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 ![EM](https://img.shields.io/badge/EM-Empresa-878787?style=flat-square) 
 
 
-## 📋 Mis Proyectos Destacados
+## 📋 Mis proyectos destacados
 ### [AD-BI] [Datos para la inclusión: Análisis de las dinámicas crediticias de FINAGRO (2021-2024) en la inclusión financiera, diversificación agropecuaria y equidad de género en zonas rurales y de posconflicto en Colombia](https://github.com/saob007/Data-Analysis---Agrocr-ditos-FINAGRO-2023)
 - **Resumen:** Análisis exploratorio de datos y visualización de insights y KPIs basado en el historial de operaciones crediticias del Fondo para el Financiamiento del Sector Agropecuario (FINAGRO) entre enero de 2021 y septiembre de 2024. El estudio se centra en evaluar el impacto de los créditos colocados en tres dimensiones clave: inclusión financiera, diversificación agropecuaria y equidad de género.
 - **Áreas de trabajo específicas:** Análisis exploratorio de datos (EDA) , modelado dimensional, creación de tablero interactivo, contrucción de KPIs e inteligencia de negocios.
