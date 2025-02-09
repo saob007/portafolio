@@ -11,13 +11,13 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 ![Demo](https://raw.githubusercontent.com/user/repo/main/assets/demo.gif)
 
 
-## Áreas
+## 📈 Áreas
 **AD: Análisis de datos | CD: Ciencia de datos | BI: Inteligencia de negocios | EM: Empresa**
 
-## Sobre mí
+## 🤔 Sobre mí
 Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Finanzas Corporativas y los Sistemas Informáticos. Cuento con experiencia desarrollando proyectos de análisis y visualización de datos, modelado dimensional, modelado analítico, ingeniería de de datos y construcción de KPIs. Mi objetivo es convertir datos crudos en información valiosa para la toma de decisiones estratégica siguiendo metodologías de trabajo como KANBAN, CRISP-DM y SCRUM.
 
-## Mis Proyectos Destacados
+## 📋 Mis Proyectos Destacados
 ### [AD-BI] [Datos para la inclusión: Análisis de las dinámicas crediticias de FINAGRO (2021-2024) en la inclusión financiera, diversificación agropecuaria y equidad de género en zonas rurales y de posconflicto en Colombia](https://github.com/saob007/Data-Analysis---Agrocr-ditos-FINAGRO-2023)
 - **Resumen:** Análisis exploratorio de datos y visualización de insights y KPIs basado en el historial de operaciones crediticias del Fondo para el Financiamiento del Sector Agropecuario (FINAGRO) entre enero de 2021 y septiembre de 2024. El estudio se centra en evaluar el impacto de los créditos colocados en tres dimensiones clave: inclusión financiera, diversificación agropecuaria y equidad de género.
 - **Áreas de trabajo:** Análisis exploratorio de datos (EDA) , modelado dimensional, creación de tablero interactivo, contrucción de KPIs e inteligencia de negocios.
@@ -192,7 +192,7 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
     <img src="assets/img/separator2.png" alt="" width="100%">
 </p>
 
-## Habilidades
+## 📚 Habilidades
 - **Lenguajes de Programación:** SQL, Python, R, Visual Basic, DAX(consultas).
 - **Herramientas de Visualización:** Power BI, Looker Studio, Tableau, Excel , Matplotlib, Seaborn, Plotly.
 - **Paquetes de Python:** Selenium, Django, Pandas, Numpy, Scipy, Statsmodel, Scikit-learn, Pickle, Tensorflow.
@@ -202,10 +202,10 @@ Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Fina
 
 ## 📫 Contacto  
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-9A0000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573228622777)
 [![Email](https://img.shields.io/badge/Correo%20Electr%C3%B3nico-Mail-9A0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ingsaidalioviedo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-9A0000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saidalioviedo/)
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-9A0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saob007)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-9A0000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573228622777)
 
 
 ---
