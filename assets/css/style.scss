@@ -57,18 +57,27 @@ h2 {
     padding-left: 15px;
     background: linear-gradient(to right, rgba(154, 0, 0, 0.1), rgba(154, 0, 0, 0.05));
     display: block;
-    padding: 6px 14px; /* Ajuste fino en padding */
+    padding: 6px 14px;
     border-radius: 6px;
     box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.08);
+    position: relative;
     transition: all 0.3s ease-in-out;
 }
 
-/* Efecto hover elegante */
-h2:hover {
-    transform: scale(1.05);
-    background: linear-gradient(to right, rgba(154, 0, 0, 0.2), rgba(154, 0, 0, 0.1));
-    box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.15);
-    animation: heartbeat 0.6s ease-in-out;
+/* Línea deslizante */
+h2::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -4px;
+    width: 0%;
+    height: 3px;
+    background-color: #9A0000;
+    transition: width 0.3s ease-in-out;
+}
+
+h2:hover::after {
+    width: 100%;
 }
 
 h3 {
