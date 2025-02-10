@@ -69,8 +69,14 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 
 **Consulta los resultados del proyecto según tu interés sin tener que descargar ningún archivo:**
 
-[![Resumen Ejecutivo](assets/img/icons/resumen.png)](https://drive.google.com/file/d/14gjjlcuHwZKhZKSsiMhb16HnbqYIt6ii/view?usp=drive_link "Visualiza el resumen ejecutivo del proyecto de modelado")
-[![Kaggle](assets/img/icons/ipynb2.png)](https://www.kaggle.com/code/saidalioviedobeltran/modelo-predictivo-retencion-proyecto "Visita el cuaderno de python del proyecto")
+<p align="left">
+    <a href="https://drive.google.com/file/d/14gjjlcuHwZKhZKSsiMhb16HnbqYIt6ii/view?usp=drive_link" title="Visualiza el resumen ejecutivo del proyecto de modelado">
+        <img class="icon" src="assets/img/icons/resumen.png" width="50">
+    </a>
+    <a href="https://www.kaggle.com/code/saidalioviedobeltran/modelo-predictivo-retencion-proyecto" title="Visita el cuaderno de exploración analítica de los datos en Kaggle">
+        <img class="icon" src="assets/img/icons/ipynb2.png" width="50">
+    </a>
+</p>
 
 <p align="center">
     <img src="assets/img/separator2.png" alt="" width="100%">
@@ -88,8 +94,13 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 
 **Consulta los resultados del proyecto según tu interés sin tener que descargar ningún archivo:**
 
-[![Resumen Ejecutivo](assets/img/icons/resumen.png)](https://drive.google.com/file/d/12HZY8SrlE5HSe9Z_D8ljwpEIXc_W3x4G/view?usp=sharing "Visualiza el resumen ejecutivo del proyecto BI")
-[![Dashboard on Looker Studio](assets/img/icons/looker_studio.png)](https://lookerstudio.google.com/s/k3qeuXaVn2o "Visualiza el tablero en Looker Studio")
+<p align="left">
+    <a href="https://drive.google.com/file/d/12HZY8SrlE5HSe9Z_D8ljwpEIXc_W3x4G/view?usp=sharing" title="Visualiza el resumen ejecutivo del proyecto BI">
+        <img class="icon" src="assets/img/icons/resumen.png" width="50">
+    <a href="https://lookerstudio.google.com/s/k3qeuXaVn2o" title="Visualiza el tablero en Looker Studio">
+        <img class="icon" src="assets/img/icons/looker_studio.png" width="50">
+    </a>
+</p>
 
 <p align="center">
     <img src="assets/img/separator2.png" alt="" width="100%">
@@ -107,8 +118,14 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 
 **Consulta los resultados del proyecto según tu interés sin tener que descargar ningún archivo:**
 
-[![Resumen Ejecutivo](assets/img/icons/resumen.png)](https://drive.google.com/file/d/1rERvBfoocET4kmWstNeQRmTti62XhVhD/view?usp=sharing "Visualiza el resumen ejecutivo del proyecto BI")
-[![Power BI](assets/img/icons/power_bi.png)](https://project.novypro.com/LnC4eD "Visualiza el tablero en Novypro")
+<p align="left">
+    <a href="https://drive.google.com/file/d/1rERvBfoocET4kmWstNeQRmTti62XhVhD/view?usp=sharing" title="Visualiza el resumen ejecutivo del proyecto BI">
+        <img class="icon" src="assets/img/icons/resumen.png" width="50">
+    </a>
+    <a href="https://project.novypro.com/LnC4eD" title="Visualiza el tablero de informe en Novypro">
+        <img class="icon" src="assets/img/icons/power_bi.png" width="50">
+    </a>
+</p
 
 <p align="center">
     <img src="assets/img/separator2.png" alt="" width="100%">
@@ -126,8 +143,14 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 
 **Consulta los resultados del proyecto según tu interés sin tener que descargar ningún archivo:**
 
-[![Resumen Ejecutivo](assets/img/icons/resumen.png)](https://drive.google.com/file/d/1OpTEPoYtq_hc2NCiiLwo7Wwd6HLEhDnj/view?usp=sharing "Visualiza el resumen ejecutivo del proyecto")
-[![Kaggle](assets/img/icons/ipynb2.png)](https://www.kaggle.com/code/saidalioviedobeltran/proyecto-rentabilidad-fic "Visita el cuaderno de python del proyecto")
+<p align="left">
+    <a href="https://drive.google.com/file/d/1OpTEPoYtq_hc2NCiiLwo7Wwd6HLEhDnj/view?usp=" title="Visualiza el resumen ejecutivo del proyecto">
+        <img class="icon" src="assets/img/icons/resumen.png" width="50">
+    </a>
+    <a href="https://www.kaggle.com/code/saidalioviedobeltran/proyecto-rentabilidad-fic" title="Visita el cuaderno de exploración analítica de los datos en Kaggle">
+        <img class="icon" src="assets/img/icons/ipynb2.png" width="50">
+    </a>
+</p>
 
 <p align="center">
     <img src="assets/img/separator2.png" alt="" width="100%">
@@ -192,9 +215,17 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 
 **Consulta los resultados del proyecto según tu interés sin tener que descargar ningún archivo:**
 
-[![Documento](assets/img/icons/documento_pdf.png)](https://drive.google.com/file/d/1AKkYS4mxXTNlpEmiWfTu16NR9q_FhtGE/view?usp=sharing "Visualiza el plan de negocios del proyecto empresarial")
-[![Documento](assets/img/icons/excel_file.png)](https://docs.google.com/spreadsheets/d/1KiFMaMhRsP7lS4Ns-G-lJn86xOvhr3yT/edit?usp=sharing&ouid=101365071772666300093&rtpof=true&sd=true "Visualiza los estudios del proyecto")
-[![Documento](assets/img/icons/presentation_file.png)](https://drive.google.com/file/d/1zNyx6qzrviUQtpPPqjDUQUAmPORyjt9d/view?usp=sharing "Visualiza de la presentación del proyecto")
+<p align="left">
+    <a href="https://drive.google.com/file/d/1AKkYS4mxXTNlpEmiWfTu16NR9q_FhtGE/view?usp=sharing" title="Visualiza el plan de negocios del proyecto empresarial">
+        <img class="icon" src="assets/img/icons/documento_pdf.png" width="50">
+    </a>
+    <a href="https://docs.google.com/spreadsheets/d/1KiFMaMhRsP7lS4Ns-G-lJn86xOvhr3yT/edit?usp=sharing&ouid=101365071772666300093&rtpof=true&sd=true" title="Visualiza los estudios del proyecto">
+        <img class="icon" src="assets/img/icons/excel_file.png" width="50">
+    </a>
+    <a href="https://drive.google.com/file/d/1zNyx6qzrviUQtpPPqjDUQUAmPORyjt9d/view?usp=sharing" title="Visualiza de la presentación del proyecto">
+        <img class="icon" src="assets/img/icons/presentation_file.png" width="50">
+    </a>
+</p>
 
 <p align="center">
     <img src="assets/img/separator2.png" alt="" width="100%">
@@ -212,8 +243,14 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 
 **Consulta los resultados del proyecto según tu interés sin tener que descargar ningún archivo:**
 
-[![Documento](assets/img/icons/documento_pdf.png)](https://repositorio.unicordoba.edu.co/server/api/core/bitstreams/21f02e45-c2bb-4a80-83bc-bc929433816c/content "Visualiza el informe del proyecto de práctica")
-[![Documento](assets/img/icons/documento_pdf.png)](https://repositorio.unicordoba.edu.co/server/api/core/bitstreams/43ffc4ed-95d1-47f0-b4bb-c78e0269f2f5/content "Visualiza los anexos del informe")
+<p align="left">
+    <a href="https://repositorio.unicordoba.edu.co/server/api/core/bitstreams/21f02e45-c2bb-4a80-83bc-bc929433816c/content" title="Visualiza el informe del proyecto de práctica">
+        <img class="icon" src="assets/img/icons/documento_pdf.png" width="50">
+    </a>
+    <a href="https://repositorio.unicordoba.edu.co/server/api/core/bitstreams/43ffc4ed-95d1-47f0-b4bb-c78e0269f2f5/content" title="Visualiza los anexos del informe">
+        <img class="icon" src="assets/img/icons/documento_pdf.png" width="50">
+    </a>
+</p>
 
 <p align="center">
     <img src="assets/img/separator2.png" alt="" width="100%">
