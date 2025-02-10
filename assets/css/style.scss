@@ -244,9 +244,9 @@ a:hover::after {
     font-size: 0.8em;
     font-weight: 400;
     color: #333; /* Color oscuro profesional */
-    background: rgba(154, 0, 0, 0.05); /* Fondo suave */
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 1), rgba(154, 0, 0, 0.05)); /* Degradado de blanco a rojo tenue */
     padding: 10px 15px;
-    border-bottom: 3px solid #9A0000; /* Línea lateral para destacar */
+    border-bottom: 3px solid #9A0000; /* Línea inferior para destacar */
     border-radius: 5px;
     display: block;
 }
