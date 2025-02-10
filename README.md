@@ -35,11 +35,23 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 
 **Consulta los resultados del proyecto según tu interés sin tener que descargar ningún archivo:**
 
-[![Resumen Ejecutivo](assets/img/icons/resumen.png)](https://drive.google.com/file/d/1bcYKzPEcbFmeR_titLeLmPuMW2jmsXN2/view?usp=sharing "Visualiza el resumen ejecutivo del proyecto")
-[![Documento](assets/img/icons/documento_pdf.png)](https://drive.google.com/file/d/1OBtzkjvAvFkALHtV9D6mnRBfXR90X038/view?usp=drive_link "Visualiza el informe documental de la investigación")
-[![Kaggle](assets/img/icons/ipynb2.png)](https://www.kaggle.com/code/saidalioviedobeltran/eda-para-agrocr-ditos-finagro-202101-202409 "Visita el cuaderno de python del proyecto")
-[![Power BI](assets/img/icons/power_bi.png)](https://project.novypro.com/OhEhpc "Visualiza el tablero en Novypro")
-[![Imagenes](assets/img/icons/images.png)](https://drive.google.com/drive/folders/1qbubBjVsBsnivm2bAqC-CJZGejwTpZ8u?usp=drive_link "Visualiza imágenes del Modelo Dimensional, Arqutectura y Tablero de Informes")
+<p align="left">
+    <a href="https://drive.google.com/file/d/1bcYKzPEcbFmeR_titLeLmPuMW2jmsXN2/view?usp=sharing" title="Visualiza el resumen ejecutivo del proyecto">
+        <img class="icon" src="assets/img/icons/resumen.png" width="50">
+    </a>
+    <a href="https://drive.google.com/file/d/1OBtzkjvAvFkALHtV9D6mnRBfXR90X038/view?usp=drive_link" title="Visualiza el informe documental de la investigación">
+        <img class="icon" src="assets/img/icons/documento_pdf.png" width="50">
+    </a>
+    <a href="https://www.kaggle.com/code/saidalioviedobeltran/eda-para-agrocr-ditos-finagro-202101-202409" title="Visita el cuaderno de exploración analítica de los datos en Kaggle">
+        <img class="icon" src="assets/img/icons/ipynb2.png" width="50">
+    </a>
+    <a href="https://project.novypro.com/OhEhpc" title="Visualiza el tablero de informe en Novypro">
+        <img class="icon" src="assets/img/icons/power_bi.png" width="50">
+    </a>
+    <a href="https://drive.google.com/drive/folders/1qbubBjVsBsnivm2bAqC-CJZGejwTpZ8u?usp=drive_link" title="Visualiza imágenes de los productos visuales">
+        <img class="icon" src="assets/img/icons/images.png" width="50">
+    </a>
+</p>
 
 <p align="center">
     <img src="assets/img/separator2.png" alt="" width="100%">
