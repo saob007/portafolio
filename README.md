@@ -253,9 +253,7 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
     </a>
 </p>
 
-<p align="center">
-    <img src="assets/img/separator2.png" alt="" width="100%">
-</p>
+
 
 ## 📚 Habilidades  
 
