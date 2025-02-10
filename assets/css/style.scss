@@ -246,7 +246,7 @@ a:hover::after {
     color: #333; /* Color oscuro profesional */
     background: rgba(154, 0, 0, 0.05); /* Fondo suave */
     padding: 10px 15px;
-    border-bottom: 4px solid #9A0000; /* Línea lateral para destacar */
+    border-bottom: none; /* Línea lateral para destacar */
     border-radius: 5px;
     display: block;
 }
