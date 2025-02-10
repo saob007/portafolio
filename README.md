@@ -21,6 +21,7 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 ![BI](https://img.shields.io/badge/BI-Inteligencia%20de%20Negocios-878787?style=flat-square) &nbsp;
 ![EM](https://img.shields.io/badge/EM-Empresa-878787?style=flat-square) 
 
+[Ir a Análisis de Datos](#-habilidades)
 
 ## 📋 Mis proyectos destacados
 ### [AD-BI] [Datos para la inclusión: Análisis de las dinámicas crediticias de FINAGRO (2021-2024) en la inclusión financiera, diversificación agropecuaria y equidad de género en zonas rurales y de posconflicto en Colombia](https://github.com/saob007/Data-Analysis---Agrocr-ditos-FINAGRO-2023)
