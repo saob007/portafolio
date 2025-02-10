@@ -240,6 +240,17 @@ a:hover::after {
     filter: drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.3));
 }
 
+.specializations {
+    font-size: 1.1em;
+    font-weight: 500;
+    color: #333; /* Color oscuro profesional */
+    background: rgba(154, 0, 0, 0.05); /* Fondo suave */
+    padding: 10px 15px;
+    border-left: 4px solid #9A0000; /* Línea lateral para destacar */
+    border-radius: 5px;
+    display: inline-block;
+}
+
 /* ANIMACIONES */
 @keyframes fadeInBlur {
     from {
