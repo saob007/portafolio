@@ -236,7 +236,7 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 - **Resumen:** Reconstrucción detallada del proceso de diseño de un sistema de reclutamiento y selección de personal del área asistencial y administrativa, basado en competencias para una entidad del sector salud.
 - **Áreas de trabajo específicas:** Ingeniería de procesos, levantamiento documental y planeación del trabajo.
 - **Herramientas:** Microsoft Excel, Microsoft Word, Dynamica SAP, Canvas.
-- **Resultados:** Formatos y manuales de métodos & procedimientos .
+- **Resultados:** Formatos y manuales de métodos & procedimientos.
 
 <p align="center">
     <img src="assets/img/informe_sistema.png" alt="Proyecto de diseño de procesos RR.HH." width="900">
