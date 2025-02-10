@@ -177,37 +177,21 @@ a:hover::after {
 }
 
 /* Animación de íconos de archivos externos */
-.icon-container {
-    display: flex; /* Usa flexbox para organizar los íconos en una fila */
-    justify-content: center; /* Centra los íconos en la pantalla */
-    gap: 20px; /* Espaciado entre los íconos */
-    margin-top: 10px; /* Espacio arriba */
+
+@keyframes iconScale {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+    100% { transform: scale(1); }
 }
 
-/* Ajuste de tamaño y efectos */
-.animated-icon {
-    width: 60px; /* Ajusta el tamaño según necesidad */
-    height: auto;
-    transition: transform 0.3s ease, filter 0.3s ease;
+.icon {
+    transition: transform 0.3s ease-in-out;
 }
 
-/* 🔥 Efecto al pasar el mouse */
-.animated-icon:hover {
-    transform: scale(1.1);
-    filter: brightness(1.2) drop-shadow(2px 2px 5px rgba(0, 0, 0, 0.3));
+.icon:hover {
+    animation: iconScale 0.5s ease-in-out;
+    filter: drop-shadow(2px 2px 5px rgba(0, 0, 0, 0.3));
 }
-
-/* 🌊 Sutil efecto de flotación */
-@keyframes float {
-    0% { transform: translateY(0px); }
-    50% { transform: translateY(-5px); }
-    100% { transform: translateY(0px); }
-}
-
-.animated-icon {
-    animation: float 3s ease-in-out infinite;
-}
-
 
 /* ANIMACIONES */
 @keyframes fadeInBlur {
