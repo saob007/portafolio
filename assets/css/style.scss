@@ -176,6 +176,30 @@ a:hover::after {
     animation: pulse 0.3s ease-in-out;
 }
 
+/* Animación de íconos de archivos externos */
+.animated-icon {
+    width: 60px; /* Ajusta el tamaño según necesidad */
+    height: auto;
+    transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+/* 🔥 Efecto al pasar el mouse */
+.animated-icon:hover {
+    transform: scale(1.1); /* Aumenta ligeramente el tamaño */
+    filter: brightness(1.2) drop-shadow(2px 2px 5px rgba(0, 0, 0, 0.3)); /* Más brillo y sombra */
+}
+
+/* 🌊 Sutil efecto de "flotar" */
+@keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-5px); }
+    100% { transform: translateY(0px); }
+}
+
+.animated-icon {
+    animation: float 3s ease-in-out infinite; /* Efecto de flotación */
+}
+
 /* ANIMACIONES */
 @keyframes fadeInBlur {
     from {
