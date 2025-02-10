@@ -126,7 +126,7 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
     <a href="https://project.novypro.com/LnC4eD" title="Visualiza el tablero de informe en Novypro">
         <img class="icon" src="assets/img/icons/power_bi.png" width="50">
     </a>
-</p
+</p>
 
 <p align="center">
     <img src="assets/img/separator2.png" alt="" width="100%">
