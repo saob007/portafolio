@@ -19,9 +19,17 @@
 
         {% if site.logo %}
           <div style="text-align: center;">
-          <img src="{{ site.logo | relative_url }}" alt="Logo" style="max-width: 63%; height: auto; border: 3px solid #9A0000; border-radius: 8px; padding: 5px;" />
-          </div>
-        {% endif %}
+          <img src="{{ site.logo | relative_url }}" alt="Foto de perfil" 
+               style="max-width: 30%; height: auto; 
+                      border: 4px solid #9A0000; /* Borde elegante */
+                      border-radius: 50%; /* Lo hace circular */
+                      padding: 5px; /* Espaciado interno */
+                      box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Sombra sutil */
+                      transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;" 
+               onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 6px 15px rgba(0, 0, 0, 0.3)';" 
+               onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 10px rgba(0, 0, 0, 0.2)';" />
+         </div>
+{% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
