@@ -251,6 +251,18 @@ a:hover::after {
     display: block;
 }
 
+.badge {
+    background: #9A0000;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 8px;
+    font-size: 0.9em;
+    font-weight: bold;
+    display: inline-block;
+    margin: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
 /* ANIMACIONES */
 @keyframes fadeInBlur {
     from {
