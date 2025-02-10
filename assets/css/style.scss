@@ -178,9 +178,9 @@ a:hover::after {
 
 /* Animación de íconos de archivos externos */
 
-@keyframes iconScale {
+@keyframes iconHover {
     0% { transform: scale(1); }
-    50% { transform: scale(1.1); }
+    50% { transform: scale(1.2); }
     100% { transform: scale(1); }
 }
 
@@ -189,8 +189,8 @@ a:hover::after {
 }
 
 .icon:hover {
-    animation: iconScale 0.5s ease-in-out;
-    filter: drop-shadow(2px 2px 5px rgba(0, 0, 0, 0.3));
+    animation: iconHover 0.6s ease-in-out;
+    filter: drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.3));
 }
 
 /* ANIMACIONES */
