@@ -60,16 +60,12 @@ h2 {
     padding: 6px 14px;
     border-radius: 6px;
     box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.08);
-    transition: all 0.3s ease-in-out;
-    opacity: 0.9;
+    position: relative;
+    transition: box-shadow 0.3s ease-in-out;
 }
 
-/* Efecto hover elegante */
 h2:hover {
-    opacity: 1;
-    background: linear-gradient(to right, rgba(154, 0, 0, 0.2), rgba(154, 0, 0, 0.1));
-    box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.15);
-    transform: translateY(-2px);
+    box-shadow: 0px 0px 15px rgba(154, 0, 0, 0.3);
 }
 
 h3 {
