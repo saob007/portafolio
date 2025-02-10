@@ -97,6 +97,7 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 <p align="left">
     <a href="https://drive.google.com/file/d/12HZY8SrlE5HSe9Z_D8ljwpEIXc_W3x4G/view?usp=sharing" title="Visualiza el resumen ejecutivo del proyecto BI">
         <img class="icon" src="assets/img/icons/resumen.png" width="50">
+    </a>  
     <a href="https://lookerstudio.google.com/s/k3qeuXaVn2o" title="Visualiza el tablero en Looker Studio">
         <img class="icon" src="assets/img/icons/looker_studio.png" width="50">
     </a>
