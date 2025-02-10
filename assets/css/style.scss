@@ -60,24 +60,16 @@ h2 {
     padding: 6px 14px;
     border-radius: 6px;
     box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.08);
-    position: relative;
     transition: all 0.3s ease-in-out;
+    opacity: 0.9;
 }
 
-/* Línea deslizante */
-h2::after {
-    content: "";
-    position: absolute;
-    left: 0;
-    bottom: -4px;
-    width: 0%;
-    height: 3px;
-    background-color: #9A0000;
-    transition: width 0.3s ease-in-out;
-}
-
-h2:hover::after {
-    width: 100%;
+/* Efecto hover elegante */
+h2:hover {
+    opacity: 1;
+    background: linear-gradient(to right, rgba(154, 0, 0, 0.2), rgba(154, 0, 0, 0.1));
+    box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.15);
+    transform: translateY(-2px);
 }
 
 h3 {
