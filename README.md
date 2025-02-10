@@ -30,7 +30,12 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 - **Resultados:** Identificación y medición de la cobertura de créditos en tres dimensiones de estudio.
 
 <p align="center">
-    <img src="assets/img/dashboard_preview.png" alt="Proyecto de análisis de dinámicas crediticas" width="900">
+    <a href="assets/img/dashboard_preview.png" target="_blank">
+        <img src="assets/img/dashboard_preview.png" 
+             alt="Proyecto de análisis de dinámicas crediticas" 
+             width="900"
+             style="border: 1px solid #9A0000; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); cursor: pointer;">
+    </a>
 </p>
 
 **Consulta los resultados del proyecto según tu interés sin tener que descargar ningún archivo:**
@@ -94,7 +99,12 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 - **Resultados:** Tablero de informe estático para el análisis de cobertura, mediciones y subsidios del servicio de acueducto y alcantarillado.
 
 <p align="center">
-    <img src="assets/img/dashboard_preview_planeacion.png" alt="Proyecto tablero de subsidios | Sincelejo 2020" width="900">
+    <a href="assets/img/dashboard_preview_planeacion.png" target="_blank">
+        <img src="assets/img/dashboard_preview_planeacion.png" 
+             alt="Proyecto tablero de subsidios | Sincelejo 2020" 
+             width="900"
+             style="border: 1px solid #9A0000; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); cursor: pointer;">
+    </a>
 </p>
 
 **Consulta los resultados del proyecto según tu interés sin tener que descargar ningún archivo:**
@@ -119,7 +129,12 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 - **Resultados:** Tablero interactivo único para el seguimiento de indicadores y mediciones del área de atención al cliente.
 
 <p align="center">
-    <img src="assets/img/dashboard_monitoreo_calidad_atenciones.png" alt="Proyecto tablero de monitoreo" width="900">
+    <a href="assets/img/dashboard_monitoreo_calidad_atenciones.png" target="_blank">
+        <img src="assets/img/dashboard_monitoreo_calidad_atenciones.png" 
+             alt="Proyecto tablero de monitoreo" 
+             width="900"
+             style="border: 1px solid #9A0000; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); cursor: pointer;">
+    </a>
 </p>
 
 **Consulta los resultados del proyecto según tu interés sin tener que descargar ningún archivo:**
@@ -144,7 +159,12 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 - **Resultados:** Análisis de la distribución y evolución de la rentabilidad de los fondos de inversión colectiva en el periodo 2024, Modelo analítico predictivo de la rentabilidad mensual, Identificación de los factores significativamente incidentes en la rentabilidad.
 
 <p align="center">
-    <img src="assets/img/modelado_rentabilidad_preview.png" alt="Proyecto de modelado analítico sobre rentabilidad mensual de los FIC 2024" width="900">
+    <a href="assets/img/modelado_rentabilidad_preview.png" target="_blank">
+        <img src="assets/img/modelado_rentabilidad_preview.png" 
+             alt="Proyecto de modelado analítico sobre rentabilidad mensual de los FIC 2024" 
+             width="900"
+             style="border: 1px solid #9A0000; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); cursor: pointer;">
+    </a>
 </p>
 
 **Consulta los resultados del proyecto según tu interés sin tener que descargar ningún archivo:**
@@ -169,7 +189,12 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 - **Resultados:** Análisis del comportamiento de los depósitos y costos en servicios gambling, Perfilación de usuarios de servicios gambling, Tablero de informe para el seguimiento de las principales variables y métricas asociadas a la los juegos de apuesta.
 
 <p align="center">
-    <img src="assets/img/dashboard_deposits_preview.png" alt="Proyecto de análisis de datos en iGaming/iGambling" width="900">
+    <a href="assets/img/dashboard_deposits_preview.png" target="_blank">
+        <img src="assets/img/dashboard_deposits_preview.png" 
+             alt="Proyecto de análisis de datos en iGaming/iGambling" 
+             width="900"
+             style="border: 1px solid #9A0000; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); cursor: pointer;">
+    </a>
 </p>
 
 **Consulta los resultados del proyecto según tu interés sin tener que descargar ningún archivo:**
@@ -200,7 +225,12 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 - **Resultados:** Modelo estadístico para la implementación de "Machine Learning" .
 
 <p align="center">
-    <img src="assets/img/proyect_preview.png" alt="Proyecto en curso" width="900">
+    <a href="assets/img/proyect_preview.png" target="_blank">
+        <img src="assets/img/proyect_preview.png" 
+             alt="Proyecto en curso" 
+             width="900"
+             style="border: 1px solid #9A0000; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); cursor: pointer;">
+    </a>
 </p>
 
 **Aún no se publican los resultados (Status = inProgress)**
@@ -216,7 +246,12 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 - **Resultados:** Plan integral estratégico para la puesta en marcha de una unidad productiva de negocio .
 
 <p align="center">
-    <img src="assets/img/proyecto_empresarial_sodeco.png" alt="Proyecto empresarial" width="900">
+    <a href="assets/img/proyecto_empresarial_sodeco.png" target="_blank">
+        <img src="assets/img/proyecto_empresarial_sodeco.png" 
+             alt="Proyecto empresarial SODECO" 
+             width="900"
+             style="border: 1px solid #9A0000; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); cursor: pointer;">
+    </a>
 </p>
 
 **Consulta los resultados del proyecto según tu interés sin tener que descargar ningún archivo:**
@@ -244,7 +279,12 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 - **Resultados:** Formatos y manuales de métodos & procedimientos.
 
 <p align="center">
-    <img src="assets/img/informe_sistema.png" alt="Proyecto de diseño de procesos RR.HH." width="900">
+    <a href="assets/img/informe_sistema.png" target="_blank">
+        <img src="assets/img/informe_sistema.png" 
+             alt="Proyecto de diseño de procesos RR.HH." 
+             width="900"
+             style="border: 1px solid #9A0000; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); cursor: pointer;">
+    </a>
 </p>
 
 **Consulta los resultados del proyecto según tu interés sin tener que descargar ningún archivo:**
