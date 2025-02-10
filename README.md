@@ -294,6 +294,9 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=plastic&logo=adobephotoshop&logoColor=white) &nbsp;
 ![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=plastic&logo=spyderide&logoColor=white)  
 
-<a href="#top" class="back-to-top">⬆ Volver arriba</a>
+<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+
+<a href="#top" class="back-to-top">⬆</a>
+
 
 ---
