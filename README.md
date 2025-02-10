@@ -133,7 +133,7 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 
 **Consulta los resultados del proyecto según tu interés sin tener que descargar ningún archivo:**
 
-<p align="left">
+<p align="center">
     <a href="https://drive.google.com/file/d/1HUaNH7exiojvJgxsSwohvfLr7_TmTYAd/view?usp=sharing" title="Visualiza el resumen ejecutivo del proyecto">
         <img src="assets/img/icons/resumen.png" width="60">
     </a>
