@@ -133,10 +133,23 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 
 **Consulta los resultados del proyecto según tu interés sin tener que descargar ningún archivo:**
 
-[![Resumen Ejecutivo](assets/img/icons/resumen.png)](https://drive.google.com/file/d/1HUaNH7exiojvJgxsSwohvfLr7_TmTYAd/view?usp=sharing "Visualiza el resumen ejecutivo del proyecto")
-[![Kaggle](assets/img/icons/ipynb2.png)](https://www.kaggle.com/code/saidalioviedobeltran/notebook-proyecto-analisis-depositos-igaming "Visita el cuaderno de exploración analítica de los datos en Kaggle")
-[![Power BI](assets/img/icons/power_bi.png)](https://project.novypro.com/YzOmrR "Visualiza el tablero de informe en Novypro")
-[![Imagenes](assets/img/icons/images.png)](https://drive.google.com/drive/folders/13cBGpvd6hwJxY4v4TGl2HGE2oT5-UIKy?usp=sharing "Visualiza imágenes del Tablero de Informe")
+<p align="left">
+    <a href="https://drive.google.com/file/d/1HUaNH7exiojvJgxsSwohvfLr7_TmTYAd/view?usp=sharing" title="Visualiza el resumen ejecutivo del proyecto">
+        <img src="assets/img/icons/resumen.png" width="60">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.kaggle.com/code/saidalioviedobeltran/notebook-proyecto-analisis-depositos-igaming" title="Visita el cuaderno de exploración analítica de los datos en Kaggle">
+        <img src="assets/img/icons/ipynb2.png" width="60">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://project.novypro.com/YzOmrR" title="Visualiza el tablero de informe en Novypro">
+        <img src="assets/img/icons/power_bi.png" width="60">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://drive.google.com/drive/folders/13cBGpvd6hwJxY4v4TGl2HGE2oT5-UIKy?usp=sharing" title="Visualiza imágenes del Tablero de Informe">
+        <img src="assets/img/icons/images.png" width="60">
+    </a>
+</p>
 
 <p align="center">
     <img src="assets/img/separator2.png" alt="" width="100%">
