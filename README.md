@@ -67,7 +67,7 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
     <img src="assets/img/notebook_proyecto.png" 
          alt="Proyecto de predicción sobre deserción laboral" 
          width="900"
-         style="border: 2px solid #9A0000; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
+         style="border: 1px solid #9A0000; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
 </p>
 
 **Consulta los resultados del proyecto según tu interés sin tener que descargar ningún archivo:**
