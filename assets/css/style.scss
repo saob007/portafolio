@@ -61,11 +61,12 @@ h2 {
     border-radius: 6px;
     box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.08);
     position: relative;
-    transition: box-shadow 0.3s ease-in-out;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
 }
 
 h2:hover {
-    box-shadow: 0px 0px 15px rgba(154, 0, 0, 0.3);
+    transform: translateY(-3px);
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.12);
 }
 
 h3 {
