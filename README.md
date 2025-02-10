@@ -64,11 +64,28 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 - **Resultados:** Modelo predictivo de deserción del talento humano, Análisis estadístico de los factores causales de retención del talento humano.
 
 <p align="center">
+    <a href="#img-modal">
+        <img src="assets/img/notebook_proyecto.png" 
+             alt="Proyecto de predicción sobre deserción laboral" 
+             width="900"
+             style="border: 1px solid #9A0000; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); cursor: pointer;">
+    </a>
+</p>
+
+<!-- Modal flotante -->
+<a href="#" id="img-modal" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.8); display: flex; align-items: center; justify-content: center; visibility: hidden; opacity: 0; transition: opacity 0.3s ease, visibility 0.3s ease;">
     <img src="assets/img/notebook_proyecto.png" 
          alt="Proyecto de predicción sobre deserción laboral" 
-         width="900"
-         style="border: 1px solid #9A0000; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
-</p>
+         style="max-width: 90%; max-height: 90%; border: 1px solid #9A0000; border-radius: 10px; box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.6);">
+</a>
+
+<!-- Estilos para mostrar el modal al hacer clic -->
+<style>
+    #img-modal:target {
+        visibility: visible;
+        opacity: 1;
+    }
+</style>
 
 **Consulta los resultados del proyecto según tu interés sin tener que descargar ningún archivo:**
 
