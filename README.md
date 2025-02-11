@@ -337,7 +337,9 @@ Aquí encontrarás una selección de algunos de mis proyectos analíticos y de i
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=plastic&logo=anaconda&logoColor=white) &nbsp;
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=plastic&logo=sap&logoColor=white) &nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=plastic&logo=adobephotoshop&logoColor=white) &nbsp;
-![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=plastic&logo=spyderide&logoColor=white)  
+![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=plastic&logo=spyderide&logoColor=white)
+
+<!--![Visitor Count](https://profile-counter.glitch.me/saob007/count.svg)-->
 
 <link rel="stylesheet" type="text/css" href="assets/css/style.css">
 
