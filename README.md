@@ -4,7 +4,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGdnN293amZ6Z3d6OTE4NmxmOGgxdzkyMDAxamRieW5oajRxbmppOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Bx39JhLGMMikTef3Mw/giphy.gif" width="220" align="left" style="margin-right: 15px;">
   </p>
 
-Soy un apasionado de la ciencia de datos, la Inteligencia de Negocios , las Finanzas Corporativas y los Sistemas Informáticos. Cuento con experiencia desarrollando proyectos de análisis y visualización de datos, modelado dimensional, modelado analítico, ingeniería de de datos y construcción de KPIs. Mi objetivo es convertir datos crudos en información valiosa para la toma de decisiones estratégica siguiendo metodologías de trabajo como KANBAN, CRISP-DM y SCRUM.
+Soy un apasionado de la Ciencia de Datos, la Inteligencia de Negocios, las Finanzas Corporativas, los Sistemas Informáticos y la Gestión de Recursos. Cuento con experiencia desarrollando proyectos de análisis y visualización de datos, modelado dimensional, modelado analítico, ingeniería de de datos y construcción de KPIs. Mi objetivo es convertir datos crudos en información valiosa para la toma de decisiones estratégica siguiendo metodologías de trabajo como KANBAN, CRISP-DM y SCRUM.
 
 Aquí encontrarás una selección de algunos de mis proyectos analíticos y de ingeniería más destacados. Te invito a revisarlos y contactarme en caso de querer saber un poco más sobre ellos. 😉
 
